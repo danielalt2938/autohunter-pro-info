@@ -1,0 +1,41 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2012 Hyundai tucson GLS Sport Utility 4D",
+    "product_price": 5500,
+    "vehicle_info": {
+        "mileage": 100000,
+        "fuel_type": "Automatic transmission",
+        "interior_color": "Black",
+        "exterior_color": "Silver",
+        "consumption": {
+            "city": 21.0,
+            "highway": 30.0
+        },
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 1031639862364362,
+        "publication_date": "2025-05-12",
+        "product_title": "2012 Hyundai tucson GLS Sport Utility 4D",
+        "product_price": 5500,
+        "publication_description": "Titulo limpio\nTodo est\u00e1 en excelentes condiciones \nPrecio total cash \nMotor y transmisi\u00f3n perfecto \nAire acondicionado full \nInterior s\u00faper nice \nListo para manejar\n See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/1031639862364362/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/496149832_122258067470075039_5620231589533903542_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=454cf4&_nc_ohc=WOXNgTqSeG8Q7kNvwH0uLPm&_nc_oc=AdlHv2FCNNcXUiiQszyMl3340lvTRhMNjRKP43C9-oP2v7YXmJ53lMiZkca71o_Tfro&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=-u89BFuITEfgEbaPTgd94w&oh=00_AfIk2X33US1fLWwpcULkAPMw9a_56Lzq4BraEnbxQQrBhg&oe=6827DB96",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/496149832_122258067470075039_5620231589533903542_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=454cf4&_nc_ohc=WOXNgTqSeG8Q7kNvwH0uLPm&_nc_oc=AdlHv2FCNNcXUiiQszyMl3340lvTRhMNjRKP43C9-oP2v7YXmJ53lMiZkca71o_Tfro&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=-u89BFuITEfgEbaPTgd94w&oh=00_AfIk2X33US1fLWwpcULkAPMw9a_56Lzq4BraEnbxQQrBhg&oe=6827DB96",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/496539713_122258057396075039_5886400170418100526_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=946e27&_nc_ohc=zfySOHgIxUwQ7kNvwGt3pB3&_nc_oc=AdmsinS96Wi9xKI9wep84tfL6Sfk7M2v3FX0nX8M_3kr92EsN1Kb25fHpSmO1xRu_Xw&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=-u89BFuITEfgEbaPTgd94w&oh=00_AfI9eukJdKFp1fTqWZ88giSrhiecdFoHsFCs8oTGWHBkdw&oe=6827FBE2"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 61552251197442,
+        "profile_name": "Cristina Mendoza",
+        "is_dealership": true,
+        "lives_in": "Hialeah, Florida",
+        "joined_facebook_in": 2023,
+        "car_listings": 11,
+        "rating": 4.1,
+        "ratings_number": 9,
+        "profile_link": "https://www.facebook.com/marketplace/profile/61552251197442/"
+    }
+}

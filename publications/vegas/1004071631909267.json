@@ -1,0 +1,37 @@
+{
+    "date": "2025-05-08",
+    "product_title": "2009 BMW 128i",
+    "product_price": 3000,
+    "vehicle_info": {
+        "mileage": 210000,
+        "fuel_type": "Gasoline",
+        "interior_color": "Grey",
+        "exterior_color": "Grey",
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 1004071631909267,
+        "publication_date": "2025-05-08",
+        "product_title": "2009 BMW 128i",
+        "product_price": 3000,
+        "publication_description": "Clean title. AC is perfect, everything works good, current registration (October 2025). New water pump (OEM).\n6cyl  3L, sunroof, \ncell [hidden information] See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/1004071631909267/",
+        "publication_location": "Las Vegas, NV",
+        "images": [
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t45.5328-4/491774691_671030069041921_1261502581195876476_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=247b10&_nc_ohc=YoD4wtfqX6UQ7kNvwE0aqEC&_nc_oc=Adk06RZEXmM4O1My-00GKt6CgtZuLp9XfhU1-MehK5v6PCaBw6NtEuoDukSTKSuvV1E&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=-gmnz3VCUdl2dSe808VFYQ&oh=00_AfL2bK1Df0NL76i1LJ2xwCQwGDv5KLmmkXj9m06nhF8FCA&oe=6827C9D3",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t45.5328-4/491774691_671030069041921_1261502581195876476_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=247b10&_nc_ohc=YoD4wtfqX6UQ7kNvwE0aqEC&_nc_oc=Adk06RZEXmM4O1My-00GKt6CgtZuLp9XfhU1-MehK5v6PCaBw6NtEuoDukSTKSuvV1E&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=-gmnz3VCUdl2dSe808VFYQ&oh=00_AfL2bK1Df0NL76i1LJ2xwCQwGDv5KLmmkXj9m06nhF8FCA&oe=6827C9D3",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t45.5328-4/496222759_2142678789569884_186562308323488641_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=247b10&_nc_ohc=P3nINNFYbI8Q7kNvwENNKVn&_nc_oc=Adka9isFUTWYUzXD7qBTxVglpmsl7bXrz8k25JS7kwZWp49CXPLitegkf_nC8eNZL2Q&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=-gmnz3VCUdl2dSe808VFYQ&oh=00_AfIDXVIq8Ieg3jQ6IGD88MiDCy5FJFp6siWxVKHZtWqB-w&oe=6827E7F1"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100000249459363,
+        "profile_name": "Nataliia Kelly Gray",
+        "is_dealership": false,
+        "lives_in": "Las Vegas, Nevada",
+        "joined_facebook_in": 2009,
+        "car_listings": 1,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100000249459363/"
+    }
+}

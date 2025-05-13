@@ -1,0 +1,35 @@
+{
+    "date": "2025-05-07",
+    "product_title": "2015 Ford explorer sport XLT Sport Utility 2D",
+    "product_price": 350,
+    "vehicle_info": {
+        "mileage": 100000,
+        "fuel_type": "Gasoline",
+        "interior_color": "Black",
+        "exterior_color": "Black",
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 1013241730956814,
+        "publication_date": "2025-05-07",
+        "product_title": "2015 Ford explorer sport XLT Sport Utility 2D",
+        "product_price": 350,
+        "publication_description": "\ud83d\udd25set de rines Explorer llantas 90%\ud83d\udd25 ",
+        "publication_link": "https://www.facebook.com/marketplace/item/1013241730956814/",
+        "publication_location": "North Las Vegas, NV",
+        "images": [
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/495936752_1257528052758309_4361363815835753288_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=454cf4&_nc_ohc=rUrZ7xx8TisQ7kNvwEFpuZX&_nc_oc=AdkHusMioyq0ZF_JErMH-ijZZYtkU7f4Hh-s48FVEo0Ay1PunUJ8uzkNpMR8g6ntweE&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=u3o1OMUhH5es4VKgPGy1Tw&oh=00_AfJw5ZGRTC5Y3bOVPp8VuetiLpf2uN8jvTvh0-qOdr79uQ&oe=6827D9DE"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100055033785832,
+        "profile_name": "Meno Meno",
+        "is_dealership": true,
+        "lives_in": "Henderson, Nevada",
+        "joined_facebook_in": 2020,
+        "car_listings": 7,
+        "rating": 3.8,
+        "ratings_number": 35,
+        "profile_link": "https://www.facebook.com/marketplace/profile/100055033785832/"
+    }
+}

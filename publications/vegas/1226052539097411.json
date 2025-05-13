@@ -1,0 +1,41 @@
+{
+    "date": "2025-05-05",
+    "product_title": "2012 BMW 5 series ActiveHybrid 5 Sedan 4D",
+    "product_price": 10900,
+    "vehicle_info": {
+        "mileage": 91500,
+        "fuel_type": "Gasoline",
+        "interior_color": "Beige",
+        "exterior_color": "White",
+        "consumption": {
+            "city": 23.0,
+            "highway": 30.0
+        },
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 1226052539097411,
+        "publication_date": "2025-05-05",
+        "product_title": "2012 BMW 5 series ActiveHybrid 5 Sedan 4D",
+        "product_price": 10900,
+        "publication_description": "Selling my BMW 535i Active Hybrid.\nExcellent condition, no scratches or dings.\n3.0 V6 330hp twin turbo!!\nRuns amazing , looks amazing!!\n19 inch M- Wheels/ tires are in great condition!!\nWith the active hybrid you get all the power plus better mpg's.\nClean title and carfax.  See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/1226052539097411/",
+        "publication_location": "Las Vegas, NV",
+        "images": [
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/494974701_10236561878895458_2636158278882033944_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=454cf4&_nc_ohc=RHKT6xMWpOgQ7kNvwGAeF2T&_nc_oc=Adk-fL_SkauUkhi81pW-IWxY9o4HrB2IbLdFYZ-Pqbq5ko4_I46-jmM7y-2Wq2I71AE&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=4b1HOXGPfK4OxHX62_uAXg&oh=00_AfKxXlgTekOiWBlba2t4jb4YAg2DT6uOmMnDUDzUpuZ52w&oe=6827DFE4",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/494974701_10236561878895458_2636158278882033944_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=454cf4&_nc_ohc=RHKT6xMWpOgQ7kNvwGAeF2T&_nc_oc=Adk-fL_SkauUkhi81pW-IWxY9o4HrB2IbLdFYZ-Pqbq5ko4_I46-jmM7y-2Wq2I71AE&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=4b1HOXGPfK4OxHX62_uAXg&oh=00_AfKxXlgTekOiWBlba2t4jb4YAg2DT6uOmMnDUDzUpuZ52w&oe=6827DFE4",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/495271564_10236561751692278_6466113388913329632_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=946e27&_nc_ohc=Dt42tpCRR_QQ7kNvwFsetui&_nc_oc=AdnIE5sMgYH1IUXP3hBRe6-3M4kXnmUoCARozghi8KQG_TRcgk8sgOeK2B6n-2Z0jkI&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=4b1HOXGPfK4OxHX62_uAXg&oh=00_AfI_yyF-ExKIwtNOtcs1qi0BlQebcigMg_dFwRs1r2l7tg&oe=6827D603"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 1488310707,
+        "profile_name": "Mladen Djukic",
+        "is_dealership": true,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2008,
+        "car_listings": 3,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/1488310707/"
+    }
+}

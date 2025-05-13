@@ -1,0 +1,40 @@
+{
+    "date": "2025-05-09",
+    "product_title": "2006 Mercedes-Benz c-class C 280 Sedan 4D",
+    "product_price": 3500,
+    "vehicle_info": {
+        "mileage": 1116,
+        "fuel_type": "Gasoline",
+        "interior_color": "Black",
+        "exterior_color": "Black",
+        "consumption": {
+            "city": 18.0,
+            "highway": 26.0
+        }
+    },
+    "publication_info": {
+        "publication_id": 2189478414883790,
+        "publication_date": "2025-05-09",
+        "product_title": "2006 Mercedes-Benz c-class C 280 Sedan 4D",
+        "product_price": 3500,
+        "publication_description": "c280\nbroken conductor plates ",
+        "publication_link": "https://www.facebook.com/marketplace/item/2189478414883790/",
+        "publication_location": "Las Vegas, NV",
+        "images": [
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/494583023_24404688802466878_6686818878247721198_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=454cf4&_nc_ohc=-i5OMcy1rjsQ7kNvwF3wRn2&_nc_oc=AdnkbyPK2AZ4Kxdzct7lcGL5DQQYkArWsfKEEp094uAGp07zgDZ5IX08dDyY5MqbYg0&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=bn1GmfbZ6ESnn7ptVS1oRA&oh=00_AfLOgBpbIoGHIxQQ4XRqPh4rhTLR5xBMAocKtgsTC-s1tw&oe=6827DF02",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/494583023_24404688802466878_6686818878247721198_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=454cf4&_nc_ohc=-i5OMcy1rjsQ7kNvwF3wRn2&_nc_oc=AdnkbyPK2AZ4Kxdzct7lcGL5DQQYkArWsfKEEp094uAGp07zgDZ5IX08dDyY5MqbYg0&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=bn1GmfbZ6ESnn7ptVS1oRA&oh=00_AfLOgBpbIoGHIxQQ4XRqPh4rhTLR5xBMAocKtgsTC-s1tw&oe=6827DF02",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/495475675_24404661699136255_4012744982618456607_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=946e27&_nc_ohc=EyUKAhqrpDcQ7kNvwHhlXio&_nc_oc=Adn6X67PiaiOqx3mPlkY2fK_uPqU_tSOSqvt8l6rtBEx59YkoUkCjU1fgVW3FRI5RBU&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=bn1GmfbZ6ESnn7ptVS1oRA&oh=00_AfJwjdB6wb7i56oz1UM-YrUrW5SbMIv9XEpOovOapyjgrQ&oe=6827DA1E"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100000572912129,
+        "profile_name": "Jet Delansig",
+        "is_dealership": false,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2009,
+        "car_listings": 1,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100000572912129/"
+    }
+}

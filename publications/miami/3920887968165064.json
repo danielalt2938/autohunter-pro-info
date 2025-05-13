@@ -1,0 +1,40 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2010 Mitsubishi lancer DE Sedan 4D",
+    "product_price": 2500,
+    "vehicle_info": {
+        "mileage": 150000,
+        "fuel_type": "Gasoline",
+        "interior_color": "",
+        "exterior_color": "White",
+        "consumption": {
+            "city": 23.0,
+            "highway": 30.0
+        }
+    },
+    "publication_info": {
+        "publication_id": 3920887968165064,
+        "publication_date": "2025-05-12",
+        "product_title": "2010 Mitsubishi lancer DE Sedan 4D",
+        "product_price": 2500,
+        "publication_description": "MITSUBISHI LANCER\nT\u00cdTULO EN MANO  ",
+        "publication_link": "https://www.facebook.com/marketplace/item/3920887968165064/",
+        "publication_location": "Miami, FL",
+        "images": [
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/496186435_768512239170362_6603393473500821944_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=454cf4&_nc_ohc=vCjkxSnPqlkQ7kNvwFf7Nve&_nc_oc=AdlFE7TJLhjdKnYtif1D042muhTMUOS2hJ9BskdlU_ghXGuWnI6hMOGt5rCRiK7FuWU&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=H9JJoZxRc1ta0Bm7VDF3nQ&oh=00_AfISXXPyFxmwnTTHxMbeSHG34oclotGKfBykYtrfS8Qn0Q&oe=6827F07F",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/496186435_768512239170362_6603393473500821944_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=454cf4&_nc_ohc=vCjkxSnPqlkQ7kNvwFf7Nve&_nc_oc=AdlFE7TJLhjdKnYtif1D042muhTMUOS2hJ9BskdlU_ghXGuWnI6hMOGt5rCRiK7FuWU&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=H9JJoZxRc1ta0Bm7VDF3nQ&oh=00_AfISXXPyFxmwnTTHxMbeSHG34oclotGKfBykYtrfS8Qn0Q&oe=6827F07F",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/495568070_768506749170911_3985754776185472429_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=946e27&_nc_ohc=J0FM4BfuQWEQ7kNvwE00cBe&_nc_oc=Adn9Q6F0anKmRXI7Zczm9XziXJII4I0pDmQ5_jRPtRZWkkGln4Rjj9ljII2JR2wQVQc&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=H9JJoZxRc1ta0Bm7VDF3nQ&oh=00_AfLDXNFMRV7bz6imGNM4s7eZBSfDAuFMMO2jvi219Qu-4w&oe=6827D9AB"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100080347776891,
+        "profile_name": "Valentina Londo\u00f1o",
+        "is_dealership": true,
+        "lives_in": "Miami, Florida",
+        "joined_facebook_in": 2022,
+        "car_listings": 5,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100080347776891/"
+    }
+}

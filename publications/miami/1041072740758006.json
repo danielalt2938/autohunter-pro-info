@@ -1,0 +1,41 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2010 Audi q5 3.2 Quattro Premium Sport Utility 4D",
+    "product_price": 5500,
+    "vehicle_info": {
+        "mileage": 100000,
+        "fuel_type": "Automatic transmission",
+        "interior_color": "Black",
+        "exterior_color": "Grey",
+        "consumption": {
+            "city": 18.0,
+            "highway": 23.0
+        },
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 1041072740758006,
+        "publication_date": "2025-05-12",
+        "product_title": "2010 Audi q5 3.2 Quattro Premium Sport Utility 4D",
+        "product_price": 5500,
+        "publication_description": "Titulo limpio\nTodo est\u00e1 en excelentes condiciones \nPrecio total cash \nMotor y transmisi\u00f3n perfecto \nAire acondicionado full \nInterior s\u00faper nice \nListo para manejar\n See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/1041072740758006/",
+        "publication_location": "Hialeah, FL",
+        "images": [
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/496858980_122258058254075039_1412657071164496842_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=454cf4&_nc_ohc=H6OKAEuww-QQ7kNvwF8_aNe&_nc_oc=AdlQeDv_kbpFgXbp9pp89ctLTRSDn3BhTDg2ieHmmitWmJWrE2u6shWff1uqNLyy8fI&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=BgRwwcwTie9o2beaoPHeVQ&oh=00_AfLM9P76k-_F6vdhq-NZ3-qhsaTTn2de5I9v9qwLtTRWrg&oe=6827D316",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/496858980_122258058254075039_1412657071164496842_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=454cf4&_nc_ohc=H6OKAEuww-QQ7kNvwF8_aNe&_nc_oc=AdlQeDv_kbpFgXbp9pp89ctLTRSDn3BhTDg2ieHmmitWmJWrE2u6shWff1uqNLyy8fI&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=BgRwwcwTie9o2beaoPHeVQ&oh=00_AfLM9P76k-_F6vdhq-NZ3-qhsaTTn2de5I9v9qwLtTRWrg&oe=6827D316",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/497464036_122258049038075039_7766128221159637259_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=946e27&_nc_ohc=f4pgz9_ZoaMQ7kNvwGjYDET&_nc_oc=Adk9oyIA4lNY1COd3YpG9k-nsYAG4Aujp8wTCbddKsHdgxs5lsoQFh_5lxKhkWMr2kg&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=BgRwwcwTie9o2beaoPHeVQ&oh=00_AfKSsMOT9OOhgrK4EUSlmV66YD-lY1xxVJXTVX4qffzN6Q&oe=6827DAF2"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 61552251197442,
+        "profile_name": "Cristina Mendoza",
+        "is_dealership": true,
+        "lives_in": "Hialeah, Florida",
+        "joined_facebook_in": 2023,
+        "car_listings": 11,
+        "rating": 4.1,
+        "ratings_number": 9,
+        "profile_link": "https://www.facebook.com/marketplace/profile/61552251197442/"
+    }
+}

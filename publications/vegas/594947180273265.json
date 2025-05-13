@@ -1,0 +1,36 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2006 Honda civic",
+    "product_price": 5399,
+    "vehicle_info": {
+        "mileage": 179768,
+        "fuel_type": "Gasoline",
+        "interior_color": "Grey",
+        "exterior_color": "Blue"
+    },
+    "publication_info": {
+        "publication_id": 594947180273265,
+        "publication_date": "2025-05-12",
+        "product_title": "2006 Honda civic",
+        "product_price": 5399,
+        "publication_description": "This vehicle is for sale by STANDARD AUTO.\nYear : 2006\nMake : Honda\nModel : Civic\nMileage : 179768 MI\nBody style : Sedan\nExterior color : Blue\nInterior color : Gray\nFuel type : GASOLINE See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/594947180273265/",
+        "publication_location": "Las Vegas, NV",
+        "images": [
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t45.5328-4/487934321_1668333537221105_2164314564027699634_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=247b10&_nc_ohc=nIIL3fPPLKEQ7kNvwGpXIIN&_nc_oc=Adnfd8J7HwQcH3TLkUKgTtuqLqRKig0o28XjG1vi6hhdpUYLRO_KkwmkF5mk8jdyJ6I&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=ascL0H1uneDOUwH1uEQytQ&oh=00_AfKrDvcieXZXLL6qQF3YmXU6AGqHqncXzngob8PPCGmlnA&oe=6827FC82",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t45.5328-4/487934321_1668333537221105_2164314564027699634_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=247b10&_nc_ohc=nIIL3fPPLKEQ7kNvwGpXIIN&_nc_oc=Adnfd8J7HwQcH3TLkUKgTtuqLqRKig0o28XjG1vi6hhdpUYLRO_KkwmkF5mk8jdyJ6I&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=ascL0H1uneDOUwH1uEQytQ&oh=00_AfKrDvcieXZXLL6qQF3YmXU6AGqHqncXzngob8PPCGmlnA&oe=6827FC82",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t45.5328-4/487327310_688676697056239_7286030179050610186_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=247b10&_nc_ohc=AXJAyuzieNUQ7kNvwGb2DW2&_nc_oc=AdlhSeJFdQhN84cVce5HbjJCmdLfZrWy5i_4KG4EMB22ibYmRfvTDrqj2zyt4Y7spn8&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=ascL0H1uneDOUwH1uEQytQ&oh=00_AfIZnJkXQYlewHBy9rBxHYu1DGwGCldwQqavJ07P_hmGzw&oe=6827CF79"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 1010436857,
+        "profile_name": "J.r. Villalta",
+        "is_dealership": true,
+        "lives_in": "Santa Monica, California",
+        "joined_facebook_in": 2008,
+        "car_listings": 12,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/1010436857/"
+    }
+}

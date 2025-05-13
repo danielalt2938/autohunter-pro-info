@@ -1,0 +1,36 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2015 Toyota corolla",
+    "product_price": 12499,
+    "vehicle_info": {
+        "mileage": 131992,
+        "fuel_type": "Gasoline",
+        "interior_color": "Black",
+        "exterior_color": "Blue"
+    },
+    "publication_info": {
+        "publication_id": 667631982703045,
+        "publication_date": "2025-05-12",
+        "product_title": "2015 Toyota corolla",
+        "product_price": 12499,
+        "publication_description": "This vehicle is for sale by INSTANT-AUTO LLC.\nYear : 2015\nMake : Toyota\nModel : Corolla\nMileage : 131992 MI\nBody style : Sedan\nExterior color : -\nInterior color : -\nFuel type : GASOLINE See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/667631982703045/",
+        "publication_location": "Spring, TX",
+        "images": [
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t45.5328-4/489371811_641259182094181_4578913314141456339_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=247b10&_nc_ohc=uJjUSWa6lWcQ7kNvwEFt2yc&_nc_oc=AdmbbZFoQowb-MnQx8rRjz_sd2-d4XeEjxX8AkyQCCvQIVt4OBMb0iVZaUmi4SF5EYs&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=sXWHPcdQf7G_BcoYsrKc_A&oh=00_AfINcvZ-cBbN3VPBLn-BSw6uOLCwg4AZrBs-jwfvIJnNdQ&oe=6827CAE2",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t45.5328-4/489371811_641259182094181_4578913314141456339_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=247b10&_nc_ohc=uJjUSWa6lWcQ7kNvwEFt2yc&_nc_oc=AdmbbZFoQowb-MnQx8rRjz_sd2-d4XeEjxX8AkyQCCvQIVt4OBMb0iVZaUmi4SF5EYs&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=sXWHPcdQf7G_BcoYsrKc_A&oh=00_AfINcvZ-cBbN3VPBLn-BSw6uOLCwg4AZrBs-jwfvIJnNdQ&oe=6827CAE2",
+            "https://scontent-mia5-2.xx.fbcdn.net/v/t45.5328-4/467809684_2158758961188563_6408972478830546864_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=247b10&_nc_ohc=SeGVXLLNgp0Q7kNvwFdw6M2&_nc_oc=Adk5GS2wI9_0XypQJxl1oSYdKu9tZ35WPycPfnYxaUJ2Rw7VtO-PWC_4KW1za8EbLXM&_nc_zt=23&_nc_ht=scontent-mia5-2.xx&_nc_gid=sXWHPcdQf7G_BcoYsrKc_A&oh=00_AfIMa0W1PPLuoWr4TMaB2jErsRJGwb_g-EXMT9dnFAPkvw&oe=6827E30B"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100014927174457,
+        "profile_name": "Ven Montalvo",
+        "is_dealership": true,
+        "lives_in": "Houston, Texas",
+        "joined_facebook_in": 2017,
+        "car_listings": 11,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100014927174457/"
+    }
+}

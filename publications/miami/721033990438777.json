@@ -1,0 +1,41 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2017 Toyota corolla LE Eco Sedan 4D",
+    "product_price": 7700,
+    "vehicle_info": {
+        "mileage": 120000,
+        "fuel_type": "Petrol",
+        "interior_color": "Grey",
+        "exterior_color": "Grey",
+        "consumption": {
+            "city": 30.0,
+            "highway": 40.0
+        },
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 721033990438777,
+        "publication_date": "2025-05-12",
+        "product_title": "2017 Toyota corolla LE Eco Sedan 4D",
+        "product_price": 7700,
+        "publication_description": "T\u00edtulo limpio en mano est\u00e1 perfecto de todo no es nuevo claro ",
+        "publication_link": "https://www.facebook.com/marketplace/item/721033990438777/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/496642201_695341716550478_2123007597878105180_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=454cf4&_nc_ohc=vEawKIiy6qUQ7kNvwEgAJHF&_nc_oc=AdloDw-lz3OND07i-JG5F4X8ZTa3vdoq3gTNGS8rQP7_qrr3z9nCaoNbE7OxDKCW0cI&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=zeymKI4MR5DRPukXdYqopw&oh=00_AfJZ-Rgm39Sjx6O3spRCH9hCcjVa1DnruNCOgq-p7udVPA&oe=6827E7EF",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/496642201_695341716550478_2123007597878105180_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=454cf4&_nc_ohc=vEawKIiy6qUQ7kNvwEgAJHF&_nc_oc=AdloDw-lz3OND07i-JG5F4X8ZTa3vdoq3gTNGS8rQP7_qrr3z9nCaoNbE7OxDKCW0cI&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=zeymKI4MR5DRPukXdYqopw&oh=00_AfJZ-Rgm39Sjx6O3spRCH9hCcjVa1DnruNCOgq-p7udVPA&oe=6827E7EF",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/497447248_695338609884122_2356202672784637800_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=946e27&_nc_ohc=BV3w1_tmcFUQ7kNvwGlfaFA&_nc_oc=AdmC001sbWHEljXiNI_xFek2NlHrvnMPyJcOmG8O2XebxjgXAVH-I4zLjZeJfFdQ6wQ&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=zeymKI4MR5DRPukXdYqopw&oh=00_AfId0a87Z_utmP1FBf2DRr5xHNDon1y_DWlTMjAS-zDBhA&oe=6827FB5E"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100082239680538,
+        "profile_name": "Ahmed Noda Otano",
+        "is_dealership": true,
+        "lives_in": "Miami, Florida",
+        "joined_facebook_in": 2022,
+        "car_listings": 7,
+        "rating": 4.1,
+        "ratings_number": 15,
+        "profile_link": "https://www.facebook.com/marketplace/profile/100082239680538/"
+    }
+}

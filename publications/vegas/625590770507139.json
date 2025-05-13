@@ -1,0 +1,40 @@
+{
+    "date": "2025-05-05",
+    "product_title": "2012 Ford f150 supercrew cab FX4 Pickup 4D 5 1/2 ft",
+    "product_price": 11999,
+    "vehicle_info": {
+        "mileage": 150000,
+        "fuel_type": "Gasoline",
+        "interior_color": "Brown",
+        "exterior_color": "Silver",
+        "consumption": {
+            "city": 14.0,
+            "highway": 19.0
+        }
+    },
+    "publication_info": {
+        "publication_id": 625590770507139,
+        "publication_date": "2025-05-05",
+        "product_title": "2012 Ford f150 supercrew cab FX4 Pickup 4D 5 1/2 ft",
+        "product_price": 11999,
+        "publication_description": "N/A",
+        "publication_link": "https://www.facebook.com/marketplace/item/625590770507139/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/494974702_1756269361589924_8970758761148387757_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=454cf4&_nc_ohc=zvZ6kYg8B6kQ7kNvwEif_BZ&_nc_oc=AdlL9GAyjsCPsnona60pBkZ27Sdkjckpq3syHa1oOe3ycEH9YPEEQH4speBoUSordW8&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=a2g_SN8_QgslJUcOtStpHQ&oh=00_AfIz76AluGZtWTE0g0weDWFZvQIwX1iNocCdfazXQW-g9Q&oe=6827E8DE",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/494974702_1756269361589924_8970758761148387757_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=454cf4&_nc_ohc=zvZ6kYg8B6kQ7kNvwEif_BZ&_nc_oc=AdlL9GAyjsCPsnona60pBkZ27Sdkjckpq3syHa1oOe3ycEH9YPEEQH4speBoUSordW8&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=a2g_SN8_QgslJUcOtStpHQ&oh=00_AfIz76AluGZtWTE0g0weDWFZvQIwX1iNocCdfazXQW-g9Q&oe=6827E8DE",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/494947884_1756261101590750_1298689146593575897_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=946e27&_nc_ohc=HtcM6C_kgD4Q7kNvwG7LPxi&_nc_oc=Admkld8en41uFURoKZdjyxt3mqO8410HguYDVcHSoMLgYPYH6lq_YSza_8Zq_sMMYSo&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=a2g_SN8_QgslJUcOtStpHQ&oh=00_AfIXlwjJXu7fhUxU9ddpttGMAIbFpHmP992_gxXsfM9vOg&oe=6827CFD1"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100016206318857,
+        "profile_name": "N/A",
+        "is_dealership": false,
+        "lives_in": "N/A",
+        "joined_facebook_in": "N/A",
+        "car_listings": 0,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100016206318857/"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "date": "2025-05-11",
+    "product_title": "2009 Nissan altima 2.5 S Sedan 4D",
+    "product_price": 950,
+    "vehicle_info": {
+        "mileage": 140000,
+        "fuel_type": "Gasoline",
+        "interior_color": "Black",
+        "exterior_color": "Grey",
+        "consumption": {
+            "city": 23.0,
+            "highway": 31.0
+        },
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 1018222017162712,
+        "publication_date": "2025-05-11",
+        "product_title": "2009 Nissan altima 2.5 S Sedan 4D",
+        "product_price": 950,
+        "publication_description": "Nissan Altima 2009 prende y corre pero me dijo el mec\u00e1nico que necesita el valvebody , titulo limpio en la mano See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/1018222017162712/",
+        "publication_location": "Henderson, NV",
+        "images": [
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/496236217_122129980028792520_3259455677105381877_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=454cf4&_nc_ohc=J21ba_of14wQ7kNvwGXUSwX&_nc_oc=Adk451yZ14Qi_46f3mytowiIgNNWpl5ylFv77PmvZS97P8jOBSili2k-9p27X8KSUkg&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=jqPv12K8v2EiPlPu8mzU1w&oh=00_AfIwh74ysMlE7nhYqstPTa-vyhtHlNvszZarjx8m0cZdxQ&oe=6827F304",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/496236217_122129980028792520_3259455677105381877_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=454cf4&_nc_ohc=J21ba_of14wQ7kNvwGXUSwX&_nc_oc=Adk451yZ14Qi_46f3mytowiIgNNWpl5ylFv77PmvZS97P8jOBSili2k-9p27X8KSUkg&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=jqPv12K8v2EiPlPu8mzU1w&oh=00_AfIwh74ysMlE7nhYqstPTa-vyhtHlNvszZarjx8m0cZdxQ&oe=6827F304",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/492096750_122129979116792520_3754297803792383476_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=946e27&_nc_ohc=hkLM5eF1MOoQ7kNvwHOoH2A&_nc_oc=Adn3qQlSm_9wB4YJbbQO3-tlTIZKh-ku0VdEaOX7kHkN2_PN6_g_4lkQt_mEk5M8tBQ&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=jqPv12K8v2EiPlPu8mzU1w&oh=00_AfK4PGOAR5BzSyncTygTJWJ_sptXF0Gmvk-G-Nl9jn9p8A&oe=6827EFD1"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 61573775616948,
+        "profile_name": "Rolando Hernandez",
+        "is_dealership": false,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2025,
+        "car_listings": 1,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/61573775616948/"
+    }
+}

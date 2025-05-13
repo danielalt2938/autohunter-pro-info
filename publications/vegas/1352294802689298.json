@@ -1,0 +1,41 @@
+{
+    "date": "2025-05-10",
+    "product_title": "2010 Nissan altima 2.5 S Sedan 4D",
+    "product_price": 9600,
+    "vehicle_info": {
+        "mileage": 160800,
+        "fuel_type": "Gasoline",
+        "interior_color": "Black",
+        "exterior_color": "Black",
+        "consumption": {
+            "city": 23.0,
+            "highway": 32.0
+        },
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 1352294802689298,
+        "publication_date": "2025-05-10",
+        "product_title": "2010 Nissan altima 2.5 S Sedan 4D",
+        "product_price": 9600,
+        "publication_description": "VIN: 1N4AL2AP1AC191\n\nOwned since2015 brought from dealership. Taking very good care of the car. Oil changed in every 5000 miles. Always parked inside garage. \n\n See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/1352294802689298/",
+        "publication_location": "Las Vegas, NV",
+        "images": [
+            "https://scontent-mia5-2.xx.fbcdn.net/v/t39.30808-6/495808574_10161010467726640_6124392849700502917_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=454cf4&_nc_ohc=yzGzjkP87lMQ7kNvwHMXviF&_nc_oc=AdkvbX63C3h3Xb1E6z29gpyj0qR5viFcGqGjBJTFxk5SaEKURo2jCtYSB2K72P3hVG0&_nc_zt=23&_nc_ht=scontent-mia5-2.xx&_nc_gid=8RvbPNijfZ73PoCR_Em1cA&oh=00_AfKx8rpUum4mJY9-fieUgL1XBGPU-35tU0laAbE4cMFsSQ&oe=6827D81C",
+            "https://scontent-mia5-2.xx.fbcdn.net/v/t39.30808-6/495808574_10161010467726640_6124392849700502917_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=454cf4&_nc_ohc=yzGzjkP87lMQ7kNvwHMXviF&_nc_oc=AdkvbX63C3h3Xb1E6z29gpyj0qR5viFcGqGjBJTFxk5SaEKURo2jCtYSB2K72P3hVG0&_nc_zt=23&_nc_ht=scontent-mia5-2.xx&_nc_gid=8RvbPNijfZ73PoCR_Em1cA&oh=00_AfKx8rpUum4mJY9-fieUgL1XBGPU-35tU0laAbE4cMFsSQ&oe=6827D81C",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/496604749_10161010456046640_3052780257781062136_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=946e27&_nc_ohc=BNi044SW4hcQ7kNvwGiDmFN&_nc_oc=AdmeuK53r5J1xJmXpBMR_GcKnq70-AEpnsbCygETaQjhlB4bTcF1Cm8AZ_9GMQZPTPs&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=8RvbPNijfZ73PoCR_Em1cA&oh=00_AfKWcf9Lz8A1AWxctN2_q62B-Xtb1IVTORy1y3th68-lSA&oe=6827F750"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 646346639,
+        "profile_name": "Chris Feng",
+        "is_dealership": false,
+        "lives_in": "Las Vegas, Nevada",
+        "joined_facebook_in": 2008,
+        "car_listings": 1,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/646346639/"
+    }
+}

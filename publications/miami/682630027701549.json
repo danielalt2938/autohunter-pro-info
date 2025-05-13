@@ -1,0 +1,41 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2015 Hyundai sonata SE Sedan 4D",
+    "product_price": 7200,
+    "vehicle_info": {
+        "mileage": 116000,
+        "fuel_type": "Gasoline",
+        "interior_color": "",
+        "exterior_color": "Blue",
+        "consumption": {
+            "city": 25.0,
+            "highway": 37.0
+        },
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 682630027701549,
+        "publication_date": "2025-05-12",
+        "product_title": "2015 Hyundai sonata SE Sedan 4D",
+        "product_price": 7200,
+        "publication_description": "2015 Hyundai Sonata\nVeh\u00edculo en perfecto estado\nCuatro gomas nuevas\nInterior impecable \nAire fr\u00edo\nT\u00edtulo limpio  See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/682630027701549/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/497463198_577551425377753_8576590641108941655_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=454cf4&_nc_ohc=zuhASQrpKoAQ7kNvwF4jPAq&_nc_oc=AdklGfYlJd7bTaofe8-3VTFoYVGZKqxCxNlRMu4kvlSX703tJxL4tblnFwRRyXKJN0A&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=Vfkv50DmMMSgNwYl46LzYg&oh=00_AfJRGvVYxWccKvKTSF1PmCSK4vGqZLqloQjF_-rJ3E-yYw&oe=6827D653",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/497463198_577551425377753_8576590641108941655_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=454cf4&_nc_ohc=zuhASQrpKoAQ7kNvwF4jPAq&_nc_oc=AdklGfYlJd7bTaofe8-3VTFoYVGZKqxCxNlRMu4kvlSX703tJxL4tblnFwRRyXKJN0A&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=Vfkv50DmMMSgNwYl46LzYg&oh=00_AfJRGvVYxWccKvKTSF1PmCSK4vGqZLqloQjF_-rJ3E-yYw&oe=6827D653",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/497479433_577546708711558_2509723939343320304_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=946e27&_nc_ohc=OwlS0XJGvmsQ7kNvwE1iq_1&_nc_oc=AdkjF4OlxFZsyjPa4Lg4hN6LKhy_i8xqyzEmSPob_hag7hjl32qvg4Xp-wux7OQpcf8&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=Vfkv50DmMMSgNwYl46LzYg&oh=00_AfLhQrPRXRoSdHbdsCiV3GoZsA_C3I81jw7zsIzl3bfUfQ&oe=6827EDC2"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100093687015931,
+        "profile_name": "Mike Angelo",
+        "is_dealership": true,
+        "lives_in": "West Kendall",
+        "joined_facebook_in": 2023,
+        "car_listings": 5,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100093687015931/"
+    }
+}

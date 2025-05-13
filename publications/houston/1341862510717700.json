@@ -1,0 +1,36 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2007 Honda shadow",
+    "product_price": 3500,
+    "vehicle_info": {
+        "mileage": 11000,
+        "fuel_type": "Manual transmission",
+        "interior_color": "",
+        "exterior_color": "Black"
+    },
+    "publication_info": {
+        "publication_id": 1341862510717700,
+        "publication_date": "2025-05-12",
+        "product_title": "2007 Honda shadow",
+        "product_price": 3500,
+        "publication_description": "2007 Honda Shadow Aero 750. 11k miles. Runs great. Foot pegs. Back rest. Windshield. Newer tires. Saddle bags.  See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/1341862510717700/",
+        "publication_location": "Richmond, TX",
+        "images": [
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/495788866_10232467616326411_803218301230937679_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=454cf4&_nc_ohc=qF8AGDXJfXIQ7kNvwFjZkel&_nc_oc=AdmEH0Cx8t1LJW0m8tSbZGewpopts41oPNWG4uZR-BEquh8rH9cZK7H4vdyanXi-NX8&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=-zNGRKKDSetmGLXvugHpHA&oh=00_AfJOh9P3bOoWSpc1JjyhLQfsf6Nat1eD-ZV6X7t5VDS5RQ&oe=6827D887",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/495788866_10232467616326411_803218301230937679_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=454cf4&_nc_ohc=qF8AGDXJfXIQ7kNvwFjZkel&_nc_oc=AdmEH0Cx8t1LJW0m8tSbZGewpopts41oPNWG4uZR-BEquh8rH9cZK7H4vdyanXi-NX8&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=-zNGRKKDSetmGLXvugHpHA&oh=00_AfJOh9P3bOoWSpc1JjyhLQfsf6Nat1eD-ZV6X7t5VDS5RQ&oe=6827D887",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/496201577_10232467580085505_2511199956905715404_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=946e27&_nc_ohc=_USA7QT7gb8Q7kNvwG1bvQ0&_nc_oc=AdnMRnrQcRg8-G90YIRVPue385mJIEggY-zzdSGmLHYrmACQ3mn4DwKTMrtxq9s1uJs&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=-zNGRKKDSetmGLXvugHpHA&oh=00_AfJk6gM439ikyesy6RGusOlWji1qLmYQYovA6WdmkK_iCg&oe=6827FD7E"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 1037040237,
+        "profile_name": "Naveen Hashmat",
+        "is_dealership": true,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2007,
+        "car_listings": 2,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/1037040237/"
+    }
+}

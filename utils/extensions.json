@@ -1,0 +1,256 @@
+{
+    "id": "foxyproxy@eric.h.jung",
+    "syncGUID": "{59115874-cc0b-4e5b-a931-39b1b4e3fd9f}",
+    "version": "9.2",
+    "type": "extension",
+    "loader": null,
+    "updateURL": null,
+    "installOrigins": null,
+    "manifestVersion": 3,
+    "optionsURL": "content/options.html",
+    "optionsType": 3,
+    "optionsBrowserStyle": false,
+    "aboutURL": null,
+    "defaultLocale": {
+      "name": "FoxyProxy",
+      "description": "Easy to use advanced Proxy Management tool for everyone",
+      "creator": "Eric Jung",
+      "homepageURL": "https://getfoxyproxy.org/",
+      "developers": null,
+      "translators": null,
+      "contributors": null
+    },
+    "visible": true,
+    "active": true,
+    "userDisabled": false,
+    "appDisabled": false,
+    "embedderDisabled": false,
+    "installDate": 1745925239493,
+    "updateDate": 1745925239493,
+    "applyBackgroundUpdates": 1,
+    "path": "/home/jorge/snap/firefox/common/.mozilla/firefox/0787o3hn.Base/extensions/foxyproxy@eric.h.jung.xpi",
+    "skinnable": false,
+    "sourceURI": "https://addons.mozilla.org/firefox/downloads/file/4472757/foxyproxy_standard-9.2.xpi",
+    "releaseNotesURI": null,
+    "softDisabled": false,
+    "foreignInstall": false,
+    "strictCompatibility": true,
+    "locales": [
+      {
+        "name": "FoxyProxy",
+        "description": "Easy to use advanced Proxy Management tool for everyone",
+        "creator": "Eric Jung",
+        "homepageURL": "https://getfoxyproxy.org/",
+        "developers": null,
+        "translators": null,
+        "contributors": null,
+        "locales": [
+          "en"
+        ]
+      },
+      {
+        "name": "FoxyProxy",
+        "description": "誰でも使いやすい先進的なプロキシー管理ツール",
+        "creator": "Eric Jung",
+        "homepageURL": "https://getfoxyproxy.org/",
+        "developers": null,
+        "translators": null,
+        "contributors": null,
+        "locales": [
+          "ja"
+        ]
+      },
+      {
+        "name": "FoxyProxy",
+        "description": "Gestionnaire de proxy avancé facile d'utilisation",
+        "creator": "Eric Jung",
+        "homepageURL": "https://getfoxyproxy.org/",
+        "developers": null,
+        "translators": null,
+        "contributors": null,
+        "locales": [
+          "fr"
+        ]
+      },
+      {
+        "name": "FoxyProxy",
+        "description": "Простий у використанні просунутий засіб керування проксі для кожного",
+        "creator": "Eric Jung",
+        "homepageURL": "https://getfoxyproxy.org/",
+        "developers": null,
+        "translators": null,
+        "contributors": null,
+        "locales": [
+          "uk"
+        ]
+      },
+      {
+        "name": "FoxyProxy",
+        "description": "Einfach zu bedienendes, fortschrittliches Proxy-Management-Tool für jedermann",
+        "creator": "Eric Jung",
+        "homepageURL": "https://getfoxyproxy.org/",
+        "developers": null,
+        "translators": null,
+        "contributors": null,
+        "locales": [
+          "de"
+        ]
+      },
+      {
+        "name": "FoxyProxy",
+        "description": "ابزاری آسان و پیشرفتهٔ مدیریت پیشکار برای همه",
+        "creator": "Eric Jung",
+        "homepageURL": "https://getfoxyproxy.org/",
+        "developers": null,
+        "translators": null,
+        "contributors": null,
+        "locales": [
+          "fa"
+        ]
+      },
+      {
+        "name": "FoxyProxy",
+        "description": "易于使用，适用于任何人的高级代理管理工具",
+        "creator": "Eric Jung",
+        "homepageURL": "https://getfoxyproxy.org/",
+        "developers": null,
+        "translators": null,
+        "contributors": null,
+        "locales": [
+          "zh-CN"
+        ]
+      },
+      {
+        "name": "FoxyProxy",
+        "description": "Простой инструмент управления прокси",
+        "creator": "Eric Jung",
+        "homepageURL": "https://getfoxyproxy.org/",
+        "developers": null,
+        "translators": null,
+        "contributors": null,
+        "locales": [
+          "ru"
+        ]
+      },
+      {
+        "name": "FoxyProxy",
+        "description": "Łatwe w użyciu zaawansowane narzędzie do zarządzania proxy dla każdego",
+        "creator": "Eric Jung",
+        "homepageURL": "https://getfoxyproxy.org/",
+        "developers": null,
+        "translators": null,
+        "contributors": null,
+        "locales": [
+          "pl"
+        ]
+      },
+      {
+        "name": "FoxyProxy",
+        "description": "Herramienta Avanzada de Gestión de Proxies fácil de usar para todos",
+        "creator": "Eric Jung",
+        "homepageURL": "https://getfoxyproxy.org/",
+        "developers": null,
+        "translators": null,
+        "contributors": null,
+        "locales": [
+          "es"
+        ]
+      },
+      {
+        "name": "FoxyProxy",
+        "description": "Ferramenta avançada de gerenciamento de proxy fácil de usar para todos",
+        "creator": "Eric Jung",
+        "homepageURL": "https://getfoxyproxy.org/",
+        "developers": null,
+        "translators": null,
+        "contributors": null,
+        "locales": [
+          "pt-BR"
+        ]
+      },
+      {
+        "name": "FoxyProxy",
+        "description": "任誰都能快速上手的進階代理伺服器管理工具",
+        "creator": "Eric Jung",
+        "homepageURL": "https://getfoxyproxy.org/",
+        "developers": null,
+        "translators": null,
+        "contributors": null,
+        "locales": [
+          "zh-TW"
+        ]
+      }
+    ],
+    "targetApplications": [
+      {
+        "id": "toolkit@mozilla.org",
+        "minVersion": "128.0",
+        "maxVersion": "*"
+      }
+    ],
+    "targetPlatforms": [],
+    "signedState": 2,
+    "signedTypes": [
+      2,
+      1
+    ],
+    "signedDate": 1745435114000,
+    "seen": true,
+    "dependencies": [],
+    "incognito": "spanning",
+    "userPermissions": {
+      "permissions": [
+        "contextMenus",
+        "downloads",
+        "notifications",
+        "proxy",
+        "storage",
+        "tabs",
+        "webRequest",
+        "webRequestAuthProvider"
+      ],
+      "origins": []
+    },
+    "optionalPermissions": {
+      "permissions": [
+        "browsingData",
+        "privacy"
+      ],
+      "origins": [
+        "<all_urls>"
+      ]
+    },
+    "requestedPermissions": {
+      "permissions": [],
+      "origins": [
+        "<all_urls>"
+      ]
+    },
+    "icons": {
+      "16": "image/icon.png",
+      "32": "image/icon32.png",
+      "48": "image/icon48.png",
+      "128": "image/icon128.png"
+    },
+    "iconURL": null,
+    "blocklistAttentionDismissed": false,
+    "blocklistState": 0,
+    "blocklistURL": null,
+    "startupData": null,
+    "hidden": false,
+    "installTelemetryInfo": {
+      "source": "amo",
+      "sourceURL": "https://addons.mozilla.org/es-ES/firefox/addon/foxyproxy-standard/",
+      "method": "amWebAPI"
+    },
+    "recommendationState": {
+      "validNotAfter": 1903223113000,
+      "validNotBefore": 1745435113000,
+      "states": [
+        "recommended",
+        "recommended-android"
+      ]
+    },
+    "rootURI": "jar:file:///home/jorge/snap/firefox/common/.mozilla/firefox/0787o3hn.Base/extensions/foxyproxy@eric.h.jung.xpi!/",
+    "location": "app-profile"
+}

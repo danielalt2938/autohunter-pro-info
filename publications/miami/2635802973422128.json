@@ -1,0 +1,40 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2016 Ford focus S Sedan 4D",
+    "product_price": 4900,
+    "vehicle_info": {
+        "mileage": 120000,
+        "fuel_type": "Gasoline",
+        "interior_color": "",
+        "exterior_color": "Red",
+        "consumption": {
+            "city": 27.0,
+            "highway": 40.0
+        }
+    },
+    "publication_info": {
+        "publication_id": 2635802973422128,
+        "publication_date": "2025-05-12",
+        "product_title": "2016 Ford focus S Sedan 4D",
+        "product_price": 4900,
+        "publication_description": "FORD FOCUS \nT\u00cdTULO LIMPIO \nPERFECTAS CONDICIONES  ",
+        "publication_link": "https://www.facebook.com/marketplace/item/2635802973422128/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/496150484_768506259170960_4549984871104983554_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=454cf4&_nc_ohc=3lJjrSeKmNYQ7kNvwFeXQVp&_nc_oc=AdncA-ZZ6D-DwEERddhOOHmg1BhHpci9s8QIGsS2Bs5OrxHBpCbUumIqCV8NTB1iDuo&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=H5TTYT8NYPHedsWkDZ6fdg&oh=00_AfIPpFHuMHp2fGqmvu4V6za8N4ZaJwYXinq-D1rFOSGbuw&oe=6827FBF8",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/496150484_768506259170960_4549984871104983554_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=454cf4&_nc_ohc=3lJjrSeKmNYQ7kNvwFeXQVp&_nc_oc=AdncA-ZZ6D-DwEERddhOOHmg1BhHpci9s8QIGsS2Bs5OrxHBpCbUumIqCV8NTB1iDuo&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=H5TTYT8NYPHedsWkDZ6fdg&oh=00_AfIPpFHuMHp2fGqmvu4V6za8N4ZaJwYXinq-D1rFOSGbuw&oe=6827FBF8",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/495450428_768494415838811_429171127480082432_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=946e27&_nc_ohc=L_tZTtV5XY4Q7kNvwHjat4C&_nc_oc=AdmOJZIeiC_bVF9nE398yz5BOxR5bIhZR0b4xCysggQTcy6lJ1tWqGiRWRAMJY3JpLA&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=H5TTYT8NYPHedsWkDZ6fdg&oh=00_AfI3-fvDPuQStCxl4Afv7v389IZzP5pt9Q2qkEhUB7I69Q&oe=6827D265"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100080347776891,
+        "profile_name": "Valentina Londo\u00f1o",
+        "is_dealership": true,
+        "lives_in": "Miami, Florida",
+        "joined_facebook_in": 2022,
+        "car_listings": 5,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100080347776891/"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2015 Hyundai elantra",
+    "product_price": 3500,
+    "vehicle_info": {
+        "mileage": 160000,
+        "fuel_type": "Automatic transmission",
+        "interior_color": "",
+        "exterior_color": "Red",
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 9818897551523325,
+        "publication_date": "2025-05-12",
+        "product_title": "2015 Hyundai elantra",
+        "product_price": 3500,
+        "publication_description": "T\u00edtulo limpio \ud83d\udccd  ",
+        "publication_link": "https://www.facebook.com/marketplace/item/9818897551523325/",
+        "publication_location": "Miami, FL",
+        "images": [
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/497552107_1148185527063868_1062857251132782743_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=454cf4&_nc_ohc=9l1d0gR7DLMQ7kNvwHkG5Xf&_nc_oc=Admi_65ZsLpEZYLqDmoCYArAstM-eLBd1Zr2C1YCv5Z2OT1M6aCsjNQArJXVJZlT0ZI&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=WmTRarOHbXRarNHCdsybQQ&oh=00_AfILpWPMJoEaUGUUp9fY2QHOA92bJ4Qf2fhOfl56zGyP4g&oe=6827DDE1",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/497552107_1148185527063868_1062857251132782743_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=454cf4&_nc_ohc=9l1d0gR7DLMQ7kNvwHkG5Xf&_nc_oc=Admi_65ZsLpEZYLqDmoCYArAstM-eLBd1Zr2C1YCv5Z2OT1M6aCsjNQArJXVJZlT0ZI&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=WmTRarOHbXRarNHCdsybQQ&oh=00_AfILpWPMJoEaUGUUp9fY2QHOA92bJ4Qf2fhOfl56zGyP4g&oe=6827DDE1",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/495606350_1148180187064402_5383539454399907968_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=946e27&_nc_ohc=EiDdS7_EIvcQ7kNvwHVMtsX&_nc_oc=AdlKnTCutnF8K3VoCDStmK_1icXNW6Msi5ddzLQPl1h5SgA69Ms6-uTtYHdliAZlviI&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=WmTRarOHbXRarNHCdsybQQ&oh=00_AfJtFj4PDT_J2vvHSsKYqXUIE8Ldp2daEaJ_vSoOEP7Hyg&oe=6827F5A7"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100056172946369,
+        "profile_name": "N/A",
+        "is_dealership": false,
+        "lives_in": "N/A",
+        "joined_facebook_in": "N/A",
+        "car_listings": 0,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100056172946369/"
+    }
+}

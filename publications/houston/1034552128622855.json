@@ -1,0 +1,40 @@
+{
+    "date": "2025-05-11",
+    "product_title": "2014 Toyota corolla LE Eco Plus Sedan 4D",
+    "product_price": 5900,
+    "vehicle_info": {
+        "mileage": 182500,
+        "fuel_type": "Automatic transmission",
+        "interior_color": "Grey",
+        "exterior_color": "Black",
+        "consumption": {
+            "city": 30.0,
+            "highway": 40.0
+        }
+    },
+    "publication_info": {
+        "publication_id": 1034552128622855,
+        "publication_date": "2025-05-11",
+        "product_title": "2014 Toyota corolla LE Eco Plus Sedan 4D",
+        "product_price": 5900,
+        "publication_description": "Hot cold air\n\nClean title in hand\n\nIt has no mechanical damage.\n\nReady for a test drive\n\nBaytown 77521 See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/1034552128622855/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/496768554_1397783391462023_3983335179689999228_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=454cf4&_nc_ohc=qrPbe_HE-IMQ7kNvwFza7dC&_nc_oc=AdlzBX1KLJ8sATja_RKWadKnGfwOk4j2CDULZ6MyvVGD1KnsbZNhRPlSGTXHppEUcKs&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=60nt1jFaUpN1gn2s4xii4Q&oh=00_AfKEBRwMEQ2l0onF6hFxnUOE401RhZjP_FU8FcGAntlsSQ&oe=6827D0E7",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/496768554_1397783391462023_3983335179689999228_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=454cf4&_nc_ohc=qrPbe_HE-IMQ7kNvwFza7dC&_nc_oc=AdlzBX1KLJ8sATja_RKWadKnGfwOk4j2CDULZ6MyvVGD1KnsbZNhRPlSGTXHppEUcKs&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=60nt1jFaUpN1gn2s4xii4Q&oh=00_AfKEBRwMEQ2l0onF6hFxnUOE401RhZjP_FU8FcGAntlsSQ&oe=6827D0E7",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/495584275_1397781328128896_2729121796344518859_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=946e27&_nc_ohc=gLgW98fiac4Q7kNvwFE_44k&_nc_oc=AdlR4aeMWco5wy5Qrq_y-OaWaDx-Zus7zbEhPHCP9azzFBke4xM3vdK7od2XsLPdB9g&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=60nt1jFaUpN1gn2s4xii4Q&oh=00_AfLOryv8jF25at6J8Vz6Y0rUnYYYb2gT7xbq0OI_Vk-FyQ&oe=682800DF"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100036911270877,
+        "profile_name": "Idbra Mechanic",
+        "is_dealership": true,
+        "lives_in": "Houston, Texas",
+        "joined_facebook_in": 2019,
+        "car_listings": 2,
+        "rating": 3.7,
+        "ratings_number": 13,
+        "profile_link": "https://www.facebook.com/marketplace/profile/100036911270877/"
+    }
+}

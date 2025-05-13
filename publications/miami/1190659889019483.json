@@ -1,0 +1,40 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2014 Jeep wrangler Unlimited Sport SUV 4D",
+    "product_price": 12500,
+    "vehicle_info": {
+        "mileage": 130000,
+        "fuel_type": "Gasoline",
+        "interior_color": "Black",
+        "exterior_color": "White",
+        "consumption": {
+            "city": 16.0,
+            "highway": 20.0
+        }
+    },
+    "publication_info": {
+        "publication_id": 1190659889019483,
+        "publication_date": "2025-05-12",
+        "product_title": "2014 Jeep wrangler Unlimited Sport SUV 4D",
+        "product_price": 12500,
+        "publication_description": "Private owner title on hand \nPrivate  ",
+        "publication_link": "https://www.facebook.com/marketplace/item/1190659889019483/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/496326660_575368985596060_5373797977207216314_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=454cf4&_nc_ohc=kjHyJYqK8XQQ7kNvwGpQYAE&_nc_oc=Adk0dMEOMegoHDiuaCQ-AlDaQoj_N1hUmq4JnaGPbUxVYuzVHknu2N5oYJV5Q2_eUq4&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=nEhQ5xLJtCiss5mRN_hq3g&oh=00_AfIHX6c-f2d3RRS5cc6iR_vZQ8xU4KbAjt5llpgLTzdFHw&oe=6827CCFE",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/496326660_575368985596060_5373797977207216314_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=454cf4&_nc_ohc=kjHyJYqK8XQQ7kNvwGpQYAE&_nc_oc=Adk0dMEOMegoHDiuaCQ-AlDaQoj_N1hUmq4JnaGPbUxVYuzVHknu2N5oYJV5Q2_eUq4&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=nEhQ5xLJtCiss5mRN_hq3g&oh=00_AfIHX6c-f2d3RRS5cc6iR_vZQ8xU4KbAjt5llpgLTzdFHw&oe=6827CCFE",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/496776809_575367268929565_752480852231377144_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=946e27&_nc_ohc=8W9sgypIbLYQ7kNvwG4uBPh&_nc_oc=AdnsK36EKwoD8k98nTVvsrfS1woFaP8BZSOwBL4o94IchfYHLITQCI0SUl7ioJhkvyw&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=nEhQ5xLJtCiss5mRN_hq3g&oh=00_AfInRSJ5hGEEftMtJVsXir7gcJpTId6R3KD2SuNZWWzlEw&oe=6827DB4A"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100093688891726,
+        "profile_name": "Sebastian Pitmichael",
+        "is_dealership": true,
+        "lives_in": "Plantation, Florida",
+        "joined_facebook_in": 2023,
+        "car_listings": 12,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100093688891726/"
+    }
+}

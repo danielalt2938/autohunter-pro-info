@@ -1,0 +1,36 @@
+{
+    "date": "2025-05-12",
+    "product_title": "1984 Cadillac eldorado",
+    "product_price": 3000,
+    "vehicle_info": {
+        "mileage": 95000,
+        "fuel_type": "Gasoline",
+        "interior_color": "Tan",
+        "exterior_color": "Beige"
+    },
+    "publication_info": {
+        "publication_id": 613822575011508,
+        "publication_date": "2025-05-12",
+        "product_title": "1984 Cadillac eldorado",
+        "product_price": 3000,
+        "publication_description": "25k miles on engine. New fuel pump. new plugs and wires. New water pump. New thermostat. Flushed radiator. Does not Runs has really good motor just need a new fuel pump . Need interior work See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/613822575011508/",
+        "publication_location": "Las Vegas, NV",
+        "images": [
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/497471278_24531084823178276_3405479513684570994_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=454cf4&_nc_ohc=PA_glGK8l14Q7kNvwF9riZy&_nc_oc=Adnf7WaLlKvXp-HI7kAXOBunXEKuVONrLRJ5LhOMwH1c9ymbfBqDoIPyPFY4yCPd3t0&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=Ww5IlkUb5okZttPaf4NgEA&oh=00_AfIwiLCuS22eEVTCFpNfClqOTmB_NuzeVKjWFO5zBaEYkg&oe=6827D8B9",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/497471278_24531084823178276_3405479513684570994_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=454cf4&_nc_ohc=PA_glGK8l14Q7kNvwF9riZy&_nc_oc=Adnf7WaLlKvXp-HI7kAXOBunXEKuVONrLRJ5LhOMwH1c9ymbfBqDoIPyPFY4yCPd3t0&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=Ww5IlkUb5okZttPaf4NgEA&oh=00_AfIwiLCuS22eEVTCFpNfClqOTmB_NuzeVKjWFO5zBaEYkg&oe=6827D8B9",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/495832851_24531063446513747_2040485128186158771_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=946e27&_nc_ohc=Er03odcDZk4Q7kNvwE-CX5C&_nc_oc=Adk7LVD_xEZMTHraVslzs46PydGaLJp0OJRzPOwOANiHL6NPqC_6L1wAXuH-NF0SzyA&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=Ww5IlkUb5okZttPaf4NgEA&oh=00_AfLGRlORTJb97CR_UohBtxcz8PNC_RTrjw6Bx00E7WLuvQ&oe=6827F38B"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100001102953506,
+        "profile_name": "Joseph Benson",
+        "is_dealership": false,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2010,
+        "car_listings": 1,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100001102953506/"
+    }
+}

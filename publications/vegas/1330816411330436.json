@@ -1,0 +1,37 @@
+{
+    "date": "2025-05-10",
+    "product_title": "2012 Toyota prius c C",
+    "product_price": 8000,
+    "vehicle_info": {
+        "mileage": 125000,
+        "fuel_type": "Hybrid",
+        "interior_color": "Black",
+        "exterior_color": "Silver",
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 1330816411330436,
+        "publication_date": "2025-05-10",
+        "product_title": "2012 Toyota prius c C",
+        "product_price": 8000,
+        "publication_description": "For Sale: 2012 Toyota Prius C Four Hatchback \u2013 Great MPG, Well-Maintained\ufffdFuel-efficient and reliable! This 2012 Prius C Four is the perfect commuter or city car, averaging over 50 MPG. Clean inside and out, with key features like navigation, push-button start, Bluetooth, and alloy wheels. Hatchback design offers surprising cargo space. Toyota reliability, low maintenance costs, and great on gas\u2014ready to go! See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/1330816411330436/",
+        "publication_location": "Las Vegas, NV",
+        "images": [
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/495825296_9924816737575583_3873669711189825871_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=454cf4&_nc_ohc=N9vB7RG-E54Q7kNvwGaN3ro&_nc_oc=Adm-JFP1gtNUZV4f0oG5Xd2cFmFoUfWwTAlnY2Odn3cnhl30CmAFFaMFqQlKarfDJ8c&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=8vlGwfgxLC52WFcfYJUVBg&oh=00_AfJc-nhEI6vZG0qXoFHAG9-OIHSVxMLs3PhMcoCTTk1Q7A&oe=6827FE2A",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/495906552_9924790707578186_5761959499856369131_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=946e27&_nc_ohc=uXej4TjpDVAQ7kNvwHpO6Tu&_nc_oc=AdkdCi_5-JYQ-IqaHPyr6youprVdbj5iCLUNq-_D8HkIhnyJgpgx0gYyzs-g4odTJNk&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=8vlGwfgxLC52WFcfYJUVBg&oh=00_AfJbXgJ98lPFkwK33_oyHdn9itJ1BkNc9eBq10EMYKsCQg&oe=6827E75A",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/496126201_9924791340911456_7717361603463459181_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=946e27&_nc_ohc=KZHRAGbNoVEQ7kNvwE0gDSE&_nc_oc=AdnrGKVPyKcz_VdZ5pXYEXa-ZLibg7-rVlq2LNExCzM_mwzw-O97uLrMaiXr0jmUfA0&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=8vlGwfgxLC52WFcfYJUVBg&oh=00_AfJ_e4dok4eqX5KaBmCitTIjj05XOISs6CjKlaQopGkS0g&oe=6827CEEF"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100001420671962,
+        "profile_name": "Hamed Ahmed",
+        "is_dealership": true,
+        "lives_in": "Las Vegas, Nevada",
+        "joined_facebook_in": 2010,
+        "car_listings": 11,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100001420671962/"
+    }
+}

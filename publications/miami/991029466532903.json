@@ -1,0 +1,36 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2017 Chevrolet cruze 1LT Sedan 4D",
+    "product_price": 7000,
+    "vehicle_info": {
+        "mileage": 59165,
+        "fuel_type": "Automatic transmission",
+        "interior_color": "Grey",
+        "exterior_color": "Gold"
+    },
+    "publication_info": {
+        "publication_id": 991029466532903,
+        "publication_date": "2025-05-12",
+        "product_title": "2017 Chevrolet cruze 1LT Sedan 4D",
+        "product_price": 7000,
+        "publication_description": "N/A",
+        "publication_link": "https://www.facebook.com/marketplace/item/991029466532903/",
+        "publication_location": "Medley, FL",
+        "images": [
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/495369664_676378785126231_7079594550502902345_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=946e27&_nc_ohc=RbRbDhpxYMwQ7kNvwFLB9hu&_nc_oc=AdmUNWb7hFkqZTquyKZI5aSdzPSQpFT0m2BcPDUs1jpsoLAJ1ntVpOGkyy2vD2mQGDY&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=t_BBCsQ3joQeICrmP49TQw&oh=00_AfLJrNNK-0lg83Djs4BOI8u1Fi3eD9YNMzNgIhUxI9aFoA&oe=6827DF27",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/495369664_676378785126231_7079594550502902345_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=946e27&_nc_ohc=RbRbDhpxYMwQ7kNvwFLB9hu&_nc_oc=AdmUNWb7hFkqZTquyKZI5aSdzPSQpFT0m2BcPDUs1jpsoLAJ1ntVpOGkyy2vD2mQGDY&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=t_BBCsQ3joQeICrmP49TQw&oh=00_AfLJrNNK-0lg83Djs4BOI8u1Fi3eD9YNMzNgIhUxI9aFoA&oe=6827DF27",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/496094190_676378798459563_5819377860591485461_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=946e27&_nc_ohc=6gR6neaM12AQ7kNvwG5USe-&_nc_oc=Adkg2lCHBGfxRItd3iV8jgC1P243vAaqEsGXfnW8bK5FTx3gKs-mxIpm9seliG23e0M&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=t_BBCsQ3joQeICrmP49TQw&oh=00_AfJcyOIQXcm2FG41tSJ5qjGr3PJwZ-7OCi8p4qk34tqIRQ&oe=6827EF5C"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100082623468370,
+        "profile_name": "Adrian Ucha",
+        "is_dealership": true,
+        "lives_in": "Miami, Florida",
+        "joined_facebook_in": 2022,
+        "car_listings": 11,
+        "rating": 4.3,
+        "ratings_number": 6,
+        "profile_link": "https://www.facebook.com/marketplace/profile/100082623468370/"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "date": "2025-05-11",
+    "product_title": "2017 Honda accord Sport Sedan 4D",
+    "product_price": 14000,
+    "vehicle_info": {
+        "mileage": 97000,
+        "fuel_type": "Gasoline",
+        "interior_color": "",
+        "exterior_color": "Grey",
+        "consumption": {
+            "city": 26.0,
+            "highway": 34.0
+        },
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 2932742370243382,
+        "publication_date": "2025-05-11",
+        "product_title": "2017 Honda accord Sport Sedan 4D",
+        "product_price": 14000,
+        "publication_description": "2017 Honda Accord 4dr sport 4cyl for that amazing gas mileage. Excellent shape with that Honda reliability! Price plus tax if in Nevada. Clean Title See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/2932742370243382/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/497455906_10237690648115285_3861190695038519207_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=454cf4&_nc_ohc=Zpw5eelKtTMQ7kNvwE-B6GT&_nc_oc=AdnmXPFfmqnzXG4nIlmSOgCUztX8Y1lqJrbd8xesn66jyOxkwqNWQ22FROP895OZ-o4&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=PBWujjTjvaAerzYhxFbJNg&oh=00_AfKBtpMpHIJUbgahCGkyFON8AQkuli1oZBLhh0iFksoJGw&oe=6827D120",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/497455906_10237690648115285_3861190695038519207_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=454cf4&_nc_ohc=Zpw5eelKtTMQ7kNvwE-B6GT&_nc_oc=AdnmXPFfmqnzXG4nIlmSOgCUztX8Y1lqJrbd8xesn66jyOxkwqNWQ22FROP895OZ-o4&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=PBWujjTjvaAerzYhxFbJNg&oh=00_AfKBtpMpHIJUbgahCGkyFON8AQkuli1oZBLhh0iFksoJGw&oe=6827D120",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/495624775_10237690600194087_579585166407089454_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=946e27&_nc_ohc=E3GKPmvNZ0kQ7kNvwGDQ_Mt&_nc_oc=AdmUo1tj85ltUKtAIzaMoQ1snhs6hwhiywos-yF8kHsjI4HcJX9ezIVwgstX6BdtNqQ&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=PBWujjTjvaAerzYhxFbJNg&oh=00_AfKHbcZWZNThT1HBflFuCUfQpzaL4EIELelp0wwHxAeVkQ&oe=6827DFCA"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 1527380254,
+        "profile_name": "Kevin Podoll",
+        "is_dealership": true,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2008,
+        "car_listings": 11,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/1527380254/"
+    }
+}

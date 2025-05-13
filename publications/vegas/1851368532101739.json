@@ -1,0 +1,36 @@
+{
+    "date": "2025-05-05",
+    "product_title": "2016 Hyundai elantra",
+    "product_price": 6800,
+    "vehicle_info": {
+        "mileage": 59552,
+        "fuel_type": "Automatic transmission",
+        "interior_color": "",
+        "exterior_color": "Black"
+    },
+    "publication_info": {
+        "publication_id": 1851368532101739,
+        "publication_date": "2025-05-05",
+        "product_title": "2016 Hyundai elantra",
+        "product_price": 6800,
+        "publication_description": "2016 Hyundai Elantra \u00b7 Sedan \u00b7 Driven 59,552 miles\n\nGood condition  ",
+        "publication_link": "https://www.facebook.com/marketplace/item/1851368532101739/",
+        "publication_location": "North Las Vegas, NV",
+        "images": [
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t45.5328-4/491744179_1626974454677049_4024428174924141460_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=247b10&_nc_ohc=Cfdq6yQGUSEQ7kNvwEkJXC8&_nc_oc=AdkYlL7KNYIU7piCJbEzranTcCuz3e49zyprOxMUxDk2XvtBv-O0I9-CaNXS2btewNY&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=ATHl3hCW9Ca_VQt-pmzdXA&oh=00_AfKzqGDtNvldcSCSqe-6XYUGU4ANoTjIh_khHCJR5fSsiw&oe=6827E10E",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t45.5328-4/491744179_1626974454677049_4024428174924141460_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=247b10&_nc_ohc=Cfdq6yQGUSEQ7kNvwEkJXC8&_nc_oc=AdkYlL7KNYIU7piCJbEzranTcCuz3e49zyprOxMUxDk2XvtBv-O0I9-CaNXS2btewNY&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=ATHl3hCW9Ca_VQt-pmzdXA&oh=00_AfKzqGDtNvldcSCSqe-6XYUGU4ANoTjIh_khHCJR5fSsiw&oe=6827E10E",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t45.5328-4/494171459_2148569238991227_3684490077318723783_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=247b10&_nc_ohc=ifhY8wN11PAQ7kNvwFxit4g&_nc_oc=Adl2up7b9YDXEQJeciFO7lajZbVW9Y4Q1WBbKtXlrNdzbRg1QcxG3MKr_GFoh8OAINs&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=ATHl3hCW9Ca_VQt-pmzdXA&oh=00_AfLBdUcZWnaKwZEgwpEcg4ccMBqkOynnlnokGJRo7ilB4Q&oe=6827C349"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100009771728247,
+        "profile_name": "Laura Larralde",
+        "is_dealership": false,
+        "lives_in": "Las Vegas, Nevada",
+        "joined_facebook_in": 2015,
+        "car_listings": 1,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100009771728247/"
+    }
+}

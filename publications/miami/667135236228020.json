@@ -1,0 +1,41 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2016 Nissan maxima S Sedan 4D",
+    "product_price": 7900,
+    "vehicle_info": {
+        "mileage": 100000,
+        "fuel_type": "Automatic transmission",
+        "interior_color": "Black",
+        "exterior_color": "White",
+        "consumption": {
+            "city": 22.0,
+            "highway": 30.0
+        },
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 667135236228020,
+        "publication_date": "2025-05-12",
+        "product_title": "2016 Nissan maxima S Sedan 4D",
+        "product_price": 7900,
+        "publication_description": "Titulo limpio\nTodo est\u00e1 en excelentes condiciones \nPrecio total cash \nMotor y transmisi\u00f3n perfecto \nAire acondicionado full \nInterior s\u00faper nice \nListo para manejar\n See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/667135236228020/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia5-2.xx.fbcdn.net/v/t39.30808-6/496846058_122258072078075039_5357749451199405114_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=454cf4&_nc_ohc=3WVmYUroNRMQ7kNvwGzBtpY&_nc_oc=AdnkqZwcoRfv3cR09W6d0AfjDPHU_X6FI7r5_mwq-deuoN11eJfm23tm9HT_Z_4un8Q&_nc_zt=23&_nc_ht=scontent-mia5-2.xx&_nc_gid=WorZjXmAE251CeNjS4FtcA&oh=00_AfI59MbcFMKbelbbmkc8r8u8SeahVO9dHm_Xv0nvg2u55A&oe=6827C867",
+            "https://scontent-mia5-2.xx.fbcdn.net/v/t39.30808-6/496846058_122258072078075039_5357749451199405114_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=454cf4&_nc_ohc=3WVmYUroNRMQ7kNvwGzBtpY&_nc_oc=AdnkqZwcoRfv3cR09W6d0AfjDPHU_X6FI7r5_mwq-deuoN11eJfm23tm9HT_Z_4un8Q&_nc_zt=23&_nc_ht=scontent-mia5-2.xx&_nc_gid=WorZjXmAE251CeNjS4FtcA&oh=00_AfI59MbcFMKbelbbmkc8r8u8SeahVO9dHm_Xv0nvg2u55A&oe=6827C867",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/495903673_122258063210075039_2673334158769341811_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=946e27&_nc_ohc=BdvwGbN4M4AQ7kNvwHiP1Ly&_nc_oc=AdnlLXGnBZLdYDsxLSOlKjuug8xgnPg1YVSImb6kzd91Mx3l-nE3_5SnPfZxPJRXpJc&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=WorZjXmAE251CeNjS4FtcA&oh=00_AfLJjHDVB8dpXxUZoG4jSpWCOVFMqy_2CYDR5bSG1Iu-ww&oe=6827DABB"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 61552251197442,
+        "profile_name": "Cristina Mendoza",
+        "is_dealership": true,
+        "lives_in": "Hialeah, Florida",
+        "joined_facebook_in": 2023,
+        "car_listings": 11,
+        "rating": 4.1,
+        "ratings_number": 9,
+        "profile_link": "https://www.facebook.com/marketplace/profile/61552251197442/"
+    }
+}

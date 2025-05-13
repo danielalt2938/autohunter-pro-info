@@ -1,0 +1,40 @@
+{
+    "date": "N/A",
+    "product_title": "2015 Maserati ghibli Sedan 4D",
+    "product_price": 15500,
+    "vehicle_info": {
+        "mileage": 60000,
+        "fuel_type": "Gasoline",
+        "interior_color": "Black",
+        "exterior_color": "Grey",
+        "consumption": {
+            "city": 15.0,
+            "highway": 25.0
+        }
+    },
+    "publication_info": {
+        "publication_id": 1213279400341248,
+        "publication_date": "N/A",
+        "product_title": "2015 Maserati ghibli Sedan 4D",
+        "product_price": 15500,
+        "publication_description": "Carro impecable un solo due\u00f1o t\u00edtulo limpio tambi\u00e9n hago negocio  ",
+        "publication_link": "https://www.facebook.com/marketplace/item/1213279400341248/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/497463556_2160762814407651_6062933656340085051_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=454cf4&_nc_ohc=8CNJ3ghPyVMQ7kNvwEwVAzP&_nc_oc=AdlcgKPx0xK-iYa1TqdKkN-fjMOImLpyOcY5oeKKLJVwTr_gyUnqHP5LU52et5gr2NY&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=MK_2d7ajcuBhdZpsBTalfQ&oh=00_AfKYwGm4AbPSNlyXfhID0T_D8j-0k5LS756w5dXLwwzPgw&oe=6827AA78",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/497463556_2160762814407651_6062933656340085051_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=454cf4&_nc_ohc=8CNJ3ghPyVMQ7kNvwEwVAzP&_nc_oc=AdlcgKPx0xK-iYa1TqdKkN-fjMOImLpyOcY5oeKKLJVwTr_gyUnqHP5LU52et5gr2NY&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=MK_2d7ajcuBhdZpsBTalfQ&oh=00_AfKYwGm4AbPSNlyXfhID0T_D8j-0k5LS756w5dXLwwzPgw&oe=6827AA78",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/496819951_2160759291074670_6872934054581227950_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=946e27&_nc_ohc=UFRLWXfDo3oQ7kNvwEWD-td&_nc_oc=AdkvgbEGCMkLcmhxHcMiR9lAwY9QW7YYUtpMCnikMkRScS3c0LTD3wnYfsniGNw_uIU&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=MK_2d7ajcuBhdZpsBTalfQ&oh=00_AfKA-A5gKvRUEsQr3Ho5KXxPEcYjfoMA4_t81cWN5ji8-A&oe=6827D71B"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100014218609121,
+        "profile_name": "Andresito Alfonso",
+        "is_dealership": true,
+        "lives_in": "Miami, Florida",
+        "joined_facebook_in": 2016,
+        "car_listings": 12,
+        "rating": 3.8,
+        "ratings_number": 59,
+        "profile_link": "https://www.facebook.com/marketplace/profile/100014218609121/"
+    }
+}

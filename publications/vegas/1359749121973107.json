@@ -1,0 +1,36 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2006 Lincoln mark lt",
+    "product_price": 8000,
+    "vehicle_info": {
+        "mileage": 110000,
+        "fuel_type": "Gasoline",
+        "interior_color": "Grey",
+        "exterior_color": "White"
+    },
+    "publication_info": {
+        "publication_id": 1359749121973107,
+        "publication_date": "2025-05-12",
+        "product_title": "2006 Lincoln mark lt",
+        "product_price": 8000,
+        "publication_description": "One owner.  Low miles for a 2006. This 4-wheel drive Lincoln has a V-8.  Looks great inside and out.  Well maintained.  Great truck. See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/1359749121973107/",
+        "publication_location": "Las Vegas, NV",
+        "images": [
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t45.5328-4/496956919_671934589094545_500052466975183202_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=247b10&_nc_ohc=ZlrZKwWHexcQ7kNvwHbY6Oa&_nc_oc=AdkyX3moRvNaAL3rKox0yiseJB3gECoyNAenXUSDs7iTDbgHFvHlyhIY7sdFcHN5apY&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=OLfjoDfI8JPLDGlyPBUepg&oh=00_AfIVFcTx_AQx4xrutQxcB7Fsr64tgTsYme7YHxj6rJM04A&oe=6827D230",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t45.5328-4/496956919_671934589094545_500052466975183202_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=247b10&_nc_ohc=ZlrZKwWHexcQ7kNvwHbY6Oa&_nc_oc=AdkyX3moRvNaAL3rKox0yiseJB3gECoyNAenXUSDs7iTDbgHFvHlyhIY7sdFcHN5apY&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=OLfjoDfI8JPLDGlyPBUepg&oh=00_AfIVFcTx_AQx4xrutQxcB7Fsr64tgTsYme7YHxj6rJM04A&oe=6827D230",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t45.5328-4/497699143_1629393600936370_4537173282462482889_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=247b10&_nc_ohc=zzkrWky3FwMQ7kNvwFr5aDq&_nc_oc=Adkh__jp6DmL_eXE2bau6g5k16nl3wVY9IpxB5Jffhky5xOXyBaqWPrdxGn7gtAOOvM&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=OLfjoDfI8JPLDGlyPBUepg&oh=00_AfLd05DsmydysmSVz82DUOfa2-MCbaKO-rJ_Egr4L9Ybbw&oe=682802C1"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 1038125571,
+        "profile_name": "Terrin Kelly",
+        "is_dealership": false,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2008,
+        "car_listings": 1,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/1038125571/"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2018 Volkswagen tiguan",
+    "product_price": 2800,
+    "vehicle_info": {
+        "mileage": 97874,
+        "fuel_type": "Gasoline",
+        "interior_color": "Black",
+        "exterior_color": "Grey",
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 1206540147190880,
+        "publication_date": "2025-05-12",
+        "product_title": "2018 Volkswagen tiguan",
+        "product_price": 2800,
+        "publication_description": "N/A",
+        "publication_link": "https://www.facebook.com/marketplace/item/1206540147190880/",
+        "publication_location": "Hialeah, FL",
+        "images": [
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t45.5328-4/496541991_9652493321466068_8091825684814677010_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=247b10&_nc_ohc=r5QP2EfkpgwQ7kNvwGw-AqV&_nc_oc=AdkEcgsKbvXiIi2Ktm_bJy25Owgl-aKCOOpKNtsytTARxh7De-5aL0jFFSDi8soYfl8&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=RMQwX_mxHL6UigfD_NCE-g&oh=00_AfK2120tHQa5kIJ61w0S2tmv6DpikVuFoZ-SzyLGoXMMng&oe=6827E22F",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t45.5328-4/496541991_9652493321466068_8091825684814677010_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=247b10&_nc_ohc=r5QP2EfkpgwQ7kNvwGw-AqV&_nc_oc=AdkEcgsKbvXiIi2Ktm_bJy25Owgl-aKCOOpKNtsytTARxh7De-5aL0jFFSDi8soYfl8&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=RMQwX_mxHL6UigfD_NCE-g&oh=00_AfK2120tHQa5kIJ61w0S2tmv6DpikVuFoZ-SzyLGoXMMng&oe=6827E22F",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t45.5328-4/496232597_1829999257852249_7172965793944924731_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=247b10&_nc_ohc=GYQnv51EftIQ7kNvwF3xtdw&_nc_oc=AdlSZHk8y7cIupyDCFs0FBJgBM_FijF95STWp0FhEot7iJ0UoeH8-SRSOtHiMZCu6XY&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=RMQwX_mxHL6UigfD_NCE-g&oh=00_AfIgEtf62Ro7CaqBfaSGI6x8nKuC7RH5gEfEQIpBc43e5w&oe=6827B66A"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100001185653981,
+        "profile_name": "Waleska Acu\u00f1a de Vargas",
+        "is_dealership": true,
+        "lives_in": "Hialeah Gardens, Florida",
+        "joined_facebook_in": 2010,
+        "car_listings": 11,
+        "rating": 3.2,
+        "ratings_number": 6,
+        "profile_link": "https://www.facebook.com/marketplace/profile/100001185653981/"
+    }
+}

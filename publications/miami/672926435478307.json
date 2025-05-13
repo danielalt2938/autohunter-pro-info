@@ -1,0 +1,36 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2007 Honda ridgeline",
+    "product_price": 6000,
+    "vehicle_info": {
+        "mileage": 147400,
+        "fuel_type": "Gasoline",
+        "interior_color": "Grey",
+        "exterior_color": "Blue"
+    },
+    "publication_info": {
+        "publication_id": 672926435478307,
+        "publication_date": "2025-05-12",
+        "product_title": "2007 Honda ridgeline",
+        "product_price": 6000,
+        "publication_description": "Honda Ridgeline 2007, transmission, motor y suspension en buenas condiciones. ",
+        "publication_link": "https://www.facebook.com/marketplace/item/672926435478307/",
+        "publication_location": "Miami, FL",
+        "images": [
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/497011774_2277215446071042_9043683558434116937_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=454cf4&_nc_ohc=5pE5Eo_PGuoQ7kNvwEQ2zII&_nc_oc=AdmMF6-k30rbfdp21AzVrl0lIfJ9koy5tKYMo1kBvom05VqTfEpmHIygdO4yxyBlWys&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=O9nfnAx6rdIMJD9-FtrG9Q&oh=00_AfK0UWpzcK07DKV-JBJ9SSGSn6YeBDS-NyYlq_SElQynNg&oe=6827BC17",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/497011774_2277215446071042_9043683558434116937_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=454cf4&_nc_ohc=5pE5Eo_PGuoQ7kNvwEQ2zII&_nc_oc=AdmMF6-k30rbfdp21AzVrl0lIfJ9koy5tKYMo1kBvom05VqTfEpmHIygdO4yxyBlWys&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=O9nfnAx6rdIMJD9-FtrG9Q&oh=00_AfK0UWpzcK07DKV-JBJ9SSGSn6YeBDS-NyYlq_SElQynNg&oe=6827BC17",
+            "https://scontent-mia5-2.xx.fbcdn.net/v/t39.30808-6/493210256_2277212159404704_6504099843750688253_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=946e27&_nc_ohc=fbNiDD8KUSAQ7kNvwFHtVt5&_nc_oc=AdngMefE_FLtt0713vSqowX6XN-jNdRsnlPLmJkUYPt3ldGX1pwSSlBxdAGSlLj4lIw&_nc_zt=23&_nc_ht=scontent-mia5-2.xx&_nc_gid=O9nfnAx6rdIMJD9-FtrG9Q&oh=00_AfKtoDiIN92_BI5woLbA6OAi6JkMPjp6VivAgYZSbpf5gQ&oe=6827B9E3"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100013478259003,
+        "profile_name": "Alain Rodriguez",
+        "is_dealership": false,
+        "lives_in": "Limonar, Cuba",
+        "joined_facebook_in": 2016,
+        "car_listings": 1,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100013478259003/"
+    }
+}

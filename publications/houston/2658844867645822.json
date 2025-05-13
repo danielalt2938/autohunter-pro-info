@@ -1,0 +1,36 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2016 Ford taurus",
+    "product_price": 14999,
+    "vehicle_info": {
+        "mileage": 171052,
+        "fuel_type": "Flex",
+        "interior_color": "Black",
+        "exterior_color": "Black"
+    },
+    "publication_info": {
+        "publication_id": 2658844867645822,
+        "publication_date": "2025-05-12",
+        "product_title": "2016 Ford taurus",
+        "product_price": 14999,
+        "publication_description": "This vehicle is for sale by USA FAMILY CARS LLC.\nYear : 2016\nMake : Ford\nModel : Taurus\nMileage : 171052 MI\nBody style : Sedan\nExterior color : Black\nFuel type : FLEX See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/2658844867645822/",
+        "publication_location": "Houston, TX",
+        "images": [
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t45.5328-4/448503581_959815909276032_6416040967645465697_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=247b10&_nc_ohc=9XkOiM6bkLYQ7kNvwFGS-Lo&_nc_oc=Adm2bEn76L02hCSt6WU6K_q8KfdB24gm_KJS2vJq2sWgmCZRu5Jrr-GB92ykuD-miMA&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=yIEsPGRBDyxYvjxFFoc5Gw&oh=00_AfJpu8DS2m0r0GM9OYb8ZTMB8r_JMI94G3-n1W7kxz0FyA&oe=6827D2F3",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t45.5328-4/448503581_959815909276032_6416040967645465697_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=247b10&_nc_ohc=9XkOiM6bkLYQ7kNvwFGS-Lo&_nc_oc=Adm2bEn76L02hCSt6WU6K_q8KfdB24gm_KJS2vJq2sWgmCZRu5Jrr-GB92ykuD-miMA&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=yIEsPGRBDyxYvjxFFoc5Gw&oh=00_AfJpu8DS2m0r0GM9OYb8ZTMB8r_JMI94G3-n1W7kxz0FyA&oe=6827D2F3",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t45.5328-4/485578426_1239112074437739_4127418403845934233_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=247b10&_nc_ohc=nK0-ssmRKP4Q7kNvwGcENMf&_nc_oc=AdkgBLkJO__J0I-qC6DLcP9vDv7t9sY8cZEEvHRKU3cKrkbWgk5hvuDVFuB1gBe8sJk&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=yIEsPGRBDyxYvjxFFoc5Gw&oh=00_AfLcrvJnow0zZpGZ6Nf8YkfGgBgkL4t_zBA8Mwb5k6YvVw&oe=6827D5D2"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 61557667576370,
+        "profile_name": "Yasser Elbramawy",
+        "is_dealership": true,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2024,
+        "car_listings": 12,
+        "rating": 3.3,
+        "ratings_number": 7,
+        "profile_link": "https://www.facebook.com/marketplace/profile/61557667576370/"
+    }
+}

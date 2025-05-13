@@ -1,0 +1,40 @@
+{
+    "date": "2025-05-09",
+    "product_title": "2013 Dodge dart Limited Sedan 4D",
+    "product_price": 5500,
+    "vehicle_info": {
+        "mileage": 116000,
+        "fuel_type": "Gasoline",
+        "interior_color": "Black",
+        "exterior_color": "Blue",
+        "consumption": {
+            "city": 25.0,
+            "highway": 36.0
+        }
+    },
+    "publication_info": {
+        "publication_id": 1074699971189349,
+        "publication_date": "2025-05-09",
+        "product_title": "2013 Dodge dart Limited Sedan 4D",
+        "product_price": 5500,
+        "publication_description": "2013 Dodge dart \nRuns and drives great \nCold ac\nSunroof\nSporty ",
+        "publication_link": "https://www.facebook.com/marketplace/item/1074699971189349/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/495372101_122130303962744966_8555161384730186039_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=454cf4&_nc_ohc=rnfofj2WQ7sQ7kNvwGjPnm9&_nc_oc=Adk64szUhSUmK4dgifjPIziQqRFIvv83y-SNUdqHSOm4fNaJXmhsnDZ7mKh4AZm-QOg&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=0v2ydzWsZcPxUJJrEKLDvQ&oh=00_AfJeUKzpxXjdKdv73zep1t2k5tXwCqRInRAWyNuM7sDvbA&oe=6827E0AA",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/495372101_122130303962744966_8555161384730186039_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=454cf4&_nc_ohc=rnfofj2WQ7sQ7kNvwGjPnm9&_nc_oc=Adk64szUhSUmK4dgifjPIziQqRFIvv83y-SNUdqHSOm4fNaJXmhsnDZ7mKh4AZm-QOg&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=0v2ydzWsZcPxUJJrEKLDvQ&oh=00_AfJeUKzpxXjdKdv73zep1t2k5tXwCqRInRAWyNuM7sDvbA&oe=6827E0AA",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/495394901_122130303026744966_725404606817938421_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=946e27&_nc_ohc=QQ4I2sbWvlUQ7kNvwGT9E5v&_nc_oc=Adk2UGSqgTXKeka5dTc4-wsG1NpsYk0fd2TIbl17R2W3GancgYuPv_RAKAvGreorhy0&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=0v2ydzWsZcPxUJJrEKLDvQ&oh=00_AfJj8I3-nXQ3l_Cewve_YRm6J2WFLLA4aS4U6nQzZMRNGg&oe=6827F036"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 61572348985711,
+        "profile_name": "Michael Jefferson",
+        "is_dealership": false,
+        "lives_in": "Las Vegas, Nevada",
+        "joined_facebook_in": 2025,
+        "car_listings": 1,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/61572348985711/"
+    }
+}

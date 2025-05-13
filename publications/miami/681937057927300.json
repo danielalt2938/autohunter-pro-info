@@ -1,0 +1,41 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2014 Chevrolet equinox LT Sport Utility 4D",
+    "product_price": 3800,
+    "vehicle_info": {
+        "mileage": 100000,
+        "fuel_type": "Automatic transmission",
+        "interior_color": "Black",
+        "exterior_color": "White",
+        "consumption": {
+            "city": 22.0,
+            "highway": 32.0
+        },
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 681937057927300,
+        "publication_date": "2025-05-12",
+        "product_title": "2014 Chevrolet equinox LT Sport Utility 4D",
+        "product_price": 3800,
+        "publication_description": "Titulo limpio\nTodo est\u00e1 en excelentes condiciones \nPrecio total cash \nMotor y transmisi\u00f3n perfecto \nAire acondicionado full \nInterior s\u00faper nice \nListo para manejar\n See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/681937057927300/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/496093067_122258049872075039_7975984618117450454_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=454cf4&_nc_ohc=5gG7XdJKi0YQ7kNvwGznidA&_nc_oc=Adn4EYFz6UcQILDSPrNC6K3b0j92WJ7w0oJOp8VRmDimAjpeZ3kWKqBJiWAgS1l-9eU&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=AidGAZHfBVlJtE9YobfAmA&oh=00_AfKBhGo3pO1oB5SuKVuKm2Qodw3XjnN61GgJqF-Lzd9Yog&oe=6827EA1F",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/496093067_122258049872075039_7975984618117450454_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=454cf4&_nc_ohc=5gG7XdJKi0YQ7kNvwGznidA&_nc_oc=Adn4EYFz6UcQILDSPrNC6K3b0j92WJ7w0oJOp8VRmDimAjpeZ3kWKqBJiWAgS1l-9eU&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=AidGAZHfBVlJtE9YobfAmA&oh=00_AfKBhGo3pO1oB5SuKVuKm2Qodw3XjnN61GgJqF-Lzd9Yog&oe=6827EA1F",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/497551916_122258047100075039_3603154091402493055_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=946e27&_nc_ohc=WKka1QpzrooQ7kNvwFKnsvs&_nc_oc=AdkYaLiIodEbYQf-w99So9gefZSU6w925Y62pZgy2LHx2r5Yzd6hT9i3f6CQZHcjHhk&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=AidGAZHfBVlJtE9YobfAmA&oh=00_AfJJE1zCh1wEum1HjYMPJlKtqpbJ01uJZ9feabPJCDs6Jg&oe=6827DE20"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 61552251197442,
+        "profile_name": "Cristina Mendoza",
+        "is_dealership": true,
+        "lives_in": "Hialeah, Florida",
+        "joined_facebook_in": 2023,
+        "car_listings": 11,
+        "rating": 4.1,
+        "ratings_number": 9,
+        "profile_link": "https://www.facebook.com/marketplace/profile/61552251197442/"
+    }
+}

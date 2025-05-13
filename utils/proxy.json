@@ -1,0 +1,34 @@
+{
+    "mode": "144.172.74.154:1080",
+    "sync": false,
+    "autoBackup": false,
+    "passthrough": "",
+    "theme": "",
+    "container": {},
+    "commands": {
+        "setProxy": "144.172.74.154:1080",
+        "setTabProxy": "",
+        "includeHost": "",
+        "excludeHost": ""
+    },
+    "data": [
+        {
+            "active": true,
+            "title": "144.172.74.154:1080",
+            "type": "socks5",
+            "hostname": "144.172.74.154",
+            "port": "1080",
+            "username": "dante_socks5",
+            "password": "SOCKSLolaso123!",
+            "cc": "US",
+            "city": "Florida",
+            "color": "#a52a2a",
+            "pac": "",
+            "pacString": "",
+            "proxyDNS": true,
+            "include": [],
+            "exclude": [],
+            "tabProxy": []
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2011 Toyota rav4 Sport Utility 4D",
+    "product_price": 3700,
+    "vehicle_info": {
+        "mileage": 134000,
+        "fuel_type": "Automatic transmission",
+        "interior_color": "Grey",
+        "exterior_color": "Green",
+        "consumption": {
+            "city": 21.0,
+            "highway": 27.0
+        },
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 1032885038948800,
+        "publication_date": "2025-05-12",
+        "product_title": "2011 Toyota rav4 Sport Utility 4D",
+        "product_price": 3700,
+        "publication_description": "Venta privada titulo limpio en mano motor y Trasmision perfectos 4 gomas buenas interior de lujo corre y maneja al 100 See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/1032885038948800/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/495377314_706328368745415_6550247143078669905_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=454cf4&_nc_ohc=0KCMG8AQ0xkQ7kNvwEE0OIl&_nc_oc=AdkQXqc6kszPxdhtDgKipQ7nI2yE0pgWavzeFRZ_MjlENqkLVXTfJwW3_f6dFLJsQc8&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=bb85ha2dXvI8gaVPJC9Hxg&oh=00_AfJ0AAb8ztelJGldtwCOwBJ0ieyHOnGJXXmvvfyz-ShW2g&oe=6827DE6C",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/495377314_706328368745415_6550247143078669905_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=454cf4&_nc_ohc=0KCMG8AQ0xkQ7kNvwEE0OIl&_nc_oc=AdkQXqc6kszPxdhtDgKipQ7nI2yE0pgWavzeFRZ_MjlENqkLVXTfJwW3_f6dFLJsQc8&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=bb85ha2dXvI8gaVPJC9Hxg&oh=00_AfJ0AAb8ztelJGldtwCOwBJ0ieyHOnGJXXmvvfyz-ShW2g&oe=6827DE6C",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/496943894_706321432079442_7748501706283818770_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=946e27&_nc_ohc=lpmHxdWrDRYQ7kNvwEmuTog&_nc_oc=AdmGWpYsOBuD52B_IP7nIMp-hDkf-jUY1_VLgLRgsLBU2a-2o7bc0kgoAQrrKMC5FWc&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=bb85ha2dXvI8gaVPJC9Hxg&oh=00_AfJKU1rjZ117Erp8yVutCSGVY2THsf4U6rvm0WST9xM3rQ&oe=6827D82F"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100081047750124,
+        "profile_name": "Oslier Roque",
+        "is_dealership": true,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2022,
+        "car_listings": 2,
+        "rating": 3.8,
+        "ratings_number": 12,
+        "profile_link": "https://www.facebook.com/marketplace/profile/100081047750124/"
+    }
+}

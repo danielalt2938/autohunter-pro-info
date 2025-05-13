@@ -1,0 +1,40 @@
+{
+    "date": "N/A",
+    "product_title": "2007 Toyota corolla LE Sedan 4D",
+    "product_price": 3500,
+    "vehicle_info": {
+        "mileage": 200000,
+        "fuel_type": "Gasoline",
+        "interior_color": "Grey",
+        "exterior_color": "Blue",
+        "consumption": {
+            "city": 26.0,
+            "highway": 35.0
+        }
+    },
+    "publication_info": {
+        "publication_id": 665971642892080,
+        "publication_date": "N/A",
+        "product_title": "2007 Toyota corolla LE Sedan 4D",
+        "product_price": 3500,
+        "publication_description": "Toyota corola \nCarro de trabajo \nAhire \ud83e\udd76 \nCaliente \ud83d\udd25 \nT\u00edtulo en mano\nMuy cuidado el carro ",
+        "publication_link": "https://www.facebook.com/marketplace/item/665971642892080/",
+        "publication_location": "Pasadena, TX",
+        "images": [
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/496119326_2284774295250136_221820970135107651_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=454cf4&_nc_ohc=nSceczvwZHoQ7kNvwGM6Kz-&_nc_oc=AdlYXw9LrU622Y5CDVVtoleZvKFnJsW0GyJ9ljfOddh1-zQVAUpy1ikn3re2zAIHGcg&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=Rx3Yao_bcqtpK8-WbmFv5w&oh=00_AfLz1CnZpfjNLMx6ns8qMpgpEiFfg7fwsR6FNF9yvMixtQ&oe=6827DFB5",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/496119326_2284774295250136_221820970135107651_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=454cf4&_nc_ohc=nSceczvwZHoQ7kNvwGM6Kz-&_nc_oc=AdlYXw9LrU622Y5CDVVtoleZvKFnJsW0GyJ9ljfOddh1-zQVAUpy1ikn3re2zAIHGcg&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=Rx3Yao_bcqtpK8-WbmFv5w&oh=00_AfLz1CnZpfjNLMx6ns8qMpgpEiFfg7fwsR6FNF9yvMixtQ&oe=6827DFB5",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/495963193_2284771845250381_2111520915019424691_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=946e27&_nc_ohc=QxTHPgA0EFMQ7kNvwFgYQUH&_nc_oc=Adn2tvZwyj3j8AROp6G_7d5mmgqPqt1vazTSE6J7RZUj6tkXh4kEBmPizREl3GBFwcM&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=Rx3Yao_bcqtpK8-WbmFv5w&oh=00_AfKZKnhHqqil_yzwGGuB1Na6axHc-uXXxWPQr5PpIXx1Cg&oe=6827E02F"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100011527620154,
+        "profile_name": "Darwin Vega",
+        "is_dealership": true,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2016,
+        "car_listings": 3,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100011527620154/"
+    }
+}
