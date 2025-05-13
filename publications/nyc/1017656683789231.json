@@ -1,0 +1,36 @@
+{
+    "date": "2025-05-05",
+    "product_title": "2017 Cadillac ct6",
+    "product_price": 15995,
+    "vehicle_info": {
+        "mileage": 120549,
+        "fuel_type": "Gasoline",
+        "interior_color": "Black",
+        "exterior_color": "Silver"
+    },
+    "publication_info": {
+        "publication_id": 1017656683789231,
+        "publication_date": "2025-05-05",
+        "product_title": "2017 Cadillac ct6",
+        "product_price": 15995,
+        "publication_description": "This vehicle is for sale by BEST CHOICE AUTO SALES.\nYear : 2017\nMake : Cadillac\nModel : CT6\nMileage : 120549 MI\nBody style : Sedan\nExterior color : Silver\nInterior color : Black\nFuel type : GASOLINE See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/1017656683789231/",
+        "publication_location": "Jersey City, NJ",
+        "images": [
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t45.5328-4/470274964_585756171064173_538212955783645906_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=247b10&_nc_ohc=F8etPRc93GAQ7kNvwEuUBZH&_nc_oc=AdnRMmP2VmIcEUw--Z25xMR657lme6kLgTsEYrw1zO45CnmUBySAbb1SZgt1TaG478U&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=Vq7PlznszL858lnir9lBQw&oh=00_AfIhmp-PgoPWWRHNyBN5yQeo1WbzYy9g3veOt1wDqR1JpA&oe=6827DBC5",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t45.5328-4/470274964_585756171064173_538212955783645906_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=247b10&_nc_ohc=F8etPRc93GAQ7kNvwEuUBZH&_nc_oc=AdnRMmP2VmIcEUw--Z25xMR657lme6kLgTsEYrw1zO45CnmUBySAbb1SZgt1TaG478U&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=Vq7PlznszL858lnir9lBQw&oh=00_AfIhmp-PgoPWWRHNyBN5yQeo1WbzYy9g3veOt1wDqR1JpA&oe=6827DBC5",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t45.5328-4/470166723_4012268505698859_1569359579557451512_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=247b10&_nc_ohc=Ds4XZeEpOvcQ7kNvwHyG1mt&_nc_oc=AdldAGcbwIn05cdkrwHmcZeBijAmLiMh05epmsLqIdYUXSKKKqqNHjCs1M75Dfl2rzw&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=Vq7PlznszL858lnir9lBQw&oh=00_AfKEtU__dlymXNuUsyKavgOeDWOBzJUnZr5rP-sCIAcSNw&oe=6827EE60"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100003795432611,
+        "profile_name": "Dave Pilzer",
+        "is_dealership": true,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2012,
+        "car_listings": 12,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100003795432611/"
+    }
+}

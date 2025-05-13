@@ -1,0 +1,36 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2011 BMW 3 series 328xi Sedan 4D",
+    "product_price": 3100,
+    "vehicle_info": {
+        "mileage": 153000,
+        "fuel_type": "Gasoline",
+        "interior_color": "Black",
+        "exterior_color": "Blue"
+    },
+    "publication_info": {
+        "publication_id": 23996442416629916,
+        "publication_date": "2025-05-12",
+        "product_title": "2011 BMW 3 series 328xi Sedan 4D",
+        "product_price": 3100,
+        "publication_description": "N/A",
+        "publication_link": "https://www.facebook.com/marketplace/item/23996442416629916/",
+        "publication_location": "Bayonne, NJ",
+        "images": [
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/496862975_10161099871170373_8539876366947917642_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=454cf4&_nc_ohc=adXi57vZ6n0Q7kNvwFMnnZC&_nc_oc=AdmEyvULiYxZAX8zo_97vDKnlqon9_iInt4fBByL9czmP5QmN8OmbJv5g2u3_3QE7V8&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=EnynITYzwtbCIe7Z__smSg&oh=00_AfKUDYrGbb5ctDwj8vr6yaiLyNl7LZAbCX2Lh3IjYp42ig&oe=6827DDE1",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/496862975_10161099871170373_8539876366947917642_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=454cf4&_nc_ohc=adXi57vZ6n0Q7kNvwFMnnZC&_nc_oc=AdmEyvULiYxZAX8zo_97vDKnlqon9_iInt4fBByL9czmP5QmN8OmbJv5g2u3_3QE7V8&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=EnynITYzwtbCIe7Z__smSg&oh=00_AfKUDYrGbb5ctDwj8vr6yaiLyNl7LZAbCX2Lh3IjYp42ig&oe=6827DDE1",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/497511162_10161099857320373_3422643699365070165_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=946e27&_nc_ohc=fcz7hGwj_O4Q7kNvwHoMDl0&_nc_oc=AdlNBG5WcXUIpdRvWO9xscCA4lM8O0yp3AKzfTF8OKPooeVl_ih7SZZlZVvLspi148Q&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=EnynITYzwtbCIe7Z__smSg&oh=00_AfJ4ndLbRP-IPLn068l0yZEpA3svx0jIXoK4OZdRkoTtjQ&oe=6827ACB4"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 530045372,
+        "profile_name": "Mina S. Tadros",
+        "is_dealership": true,
+        "lives_in": "Bayonne, New Jersey",
+        "joined_facebook_in": 2007,
+        "car_listings": 2,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/530045372/"
+    }
+}

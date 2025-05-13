@@ -1,0 +1,36 @@
+{
+    "date": "2025-05-11",
+    "product_title": "2007 Dodge ram 1500",
+    "product_price": 1000,
+    "vehicle_info": {
+        "mileage": 98000,
+        "fuel_type": "Gasoline",
+        "interior_color": "Grey",
+        "exterior_color": "Grey"
+    },
+    "publication_info": {
+        "publication_id": 1382795106173933,
+        "publication_date": "2025-05-11",
+        "product_title": "2007 Dodge ram 1500",
+        "product_price": 1000,
+        "publication_description": "the care no longer turns on. Needs some work. good for project car. ",
+        "publication_link": "https://www.facebook.com/marketplace/item/1382795106173933/",
+        "publication_location": "Fairview Heights, IL",
+        "images": [
+            "https://scontent-mia5-2.xx.fbcdn.net/v/t39.30808-6/496254996_666861529672698_1445714111181973227_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=454cf4&_nc_ohc=EKsCjfcVQA8Q7kNvwE6WL8O&_nc_oc=AdlAdx730SY-FwGfekE2yTA2zPSIPczkVgiYH9vxbBkVjIdINcAFq8nEKh8r4nxoFw8&_nc_zt=23&_nc_ht=scontent-mia5-2.xx&_nc_gid=JMfWc0bnzvCvRic2f4jCwg&oh=00_AfIJOjmqR-_fcnYa9xQEuN1E9J7UFA1h8siDQg9jTbCe0g&oe=6827F2D7",
+            "https://scontent-mia5-2.xx.fbcdn.net/v/t39.30808-6/496254996_666861529672698_1445714111181973227_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=454cf4&_nc_ohc=EKsCjfcVQA8Q7kNvwE6WL8O&_nc_oc=AdlAdx730SY-FwGfekE2yTA2zPSIPczkVgiYH9vxbBkVjIdINcAFq8nEKh8r4nxoFw8&_nc_zt=23&_nc_ht=scontent-mia5-2.xx&_nc_gid=JMfWc0bnzvCvRic2f4jCwg&oh=00_AfIJOjmqR-_fcnYa9xQEuN1E9J7UFA1h8siDQg9jTbCe0g&oe=6827F2D7",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/496411776_666858729672978_1888727219092968405_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=946e27&_nc_ohc=YLcZmbdMX5kQ7kNvwF0KHZS&_nc_oc=AdknvrvWrLqhAV90PNuZSU_2e2o2HpBqi8nGOSqOeShs15uGf8WdXoY2fJ62uII2G6c&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=JMfWc0bnzvCvRic2f4jCwg&oh=00_AfJLX15xjUJMaWuFbS-VHzB6hzdVZ_yp18G0r0Cj45OuGQ&oe=6827F756"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100090465692490,
+        "profile_name": "Jesus Saavedra",
+        "is_dealership": false,
+        "lives_in": "Fairview Heights, Illinois",
+        "joined_facebook_in": 2023,
+        "car_listings": 1,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100090465692490/"
+    }
+}

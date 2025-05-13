@@ -1,0 +1,41 @@
+{
+    "date": "2025-05-09",
+    "product_title": "2016 Jeep cherokee Latitude Sport Utility 4D",
+    "product_price": 5900,
+    "vehicle_info": {
+        "mileage": 94000,
+        "fuel_type": "Gasoline",
+        "interior_color": "Grey",
+        "exterior_color": "Grey",
+        "consumption": {
+            "city": 20.0,
+            "highway": 28.0
+        },
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 548297978338470,
+        "publication_date": "2025-05-09",
+        "product_title": "2016 Jeep cherokee Latitude Sport Utility 4D",
+        "product_price": 5900,
+        "publication_description": "N/A",
+        "publication_link": "https://www.facebook.com/marketplace/item/548297978338470/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/495453016_10236408871662606_7905989649575646177_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=454cf4&_nc_ohc=JmQS1_bih58Q7kNvwEzdLtu&_nc_oc=AdlYvLpnf-HHmvstocy88nIApaL7hP7-AlKm2v7QOCvH9jAMWasR9K0o04PtUN_PZwA&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=8AMx3TskTUXM3F0YKhazbw&oh=00_AfJuNxk-Sb-TNxiiyFecrh7k5UTgUi7pRxZ_cXAH-vq4YQ&oe=6827F336",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/495453016_10236408871662606_7905989649575646177_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=454cf4&_nc_ohc=JmQS1_bih58Q7kNvwEzdLtu&_nc_oc=AdlYvLpnf-HHmvstocy88nIApaL7hP7-AlKm2v7QOCvH9jAMWasR9K0o04PtUN_PZwA&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=8AMx3TskTUXM3F0YKhazbw&oh=00_AfJuNxk-Sb-TNxiiyFecrh7k5UTgUi7pRxZ_cXAH-vq4YQ&oe=6827F336",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/495608406_10236408838861786_5593583501049071123_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=946e27&_nc_ohc=HpzNf_7zqP0Q7kNvwEUsHvN&_nc_oc=AdlYa0kWBEvXZdgzraeyzHjgIAUEa4f9Fcaqe3hYyZRwNgSyJNVqyor4TROl1ES3eck&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=8AMx3TskTUXM3F0YKhazbw&oh=00_AfJPjpIaRKo8iqvz6GlvlAxRWsPMhynvOCuOwHqqMUruxw&oe=6827FCD6"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 1255315863,
+        "profile_name": "N/A",
+        "is_dealership": false,
+        "lives_in": "N/A",
+        "joined_facebook_in": "N/A",
+        "car_listings": 0,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/1255315863/"
+    }
+}

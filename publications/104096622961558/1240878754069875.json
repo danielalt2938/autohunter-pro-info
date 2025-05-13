@@ -1,0 +1,37 @@
+{
+    "date": "2025-05-11",
+    "product_title": "2004 Dodge ram 1500",
+    "product_price": 4750,
+    "vehicle_info": {
+        "mileage": 193000,
+        "fuel_type": "Gasoline",
+        "interior_color": "Grey",
+        "exterior_color": "Grey",
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 1240878754069875,
+        "publication_date": "2025-05-11",
+        "product_title": "2004 Dodge ram 1500",
+        "product_price": 4750,
+        "publication_description": "2004 Dodge Ram 1500\nRuns great\nEverything works like it should\nClean title\n$4,750\n\nLocated in St. Charles near Cave Springs See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/1240878754069875/",
+        "publication_location": "St Charles, MO",
+        "images": [
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t45.5328-4/496790186_1007564174817572_2674995820255813623_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=247b10&_nc_ohc=39rCWU7aLZUQ7kNvwHV3oqT&_nc_oc=AdmDRRLQ8pxrSIXzVBfYyjb9POYWo4en4bmwd7Ma3KyZFL_j5AMEHjezeXZWPjKPXnc&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=QI7i_wRDeFw0TY3fKlp3iA&oh=00_AfJ717kcJHQ91IFR-t4cEUvOqExDhVXYpnlJHZn43z-_tQ&oe=6827CB39",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t45.5328-4/496790186_1007564174817572_2674995820255813623_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=247b10&_nc_ohc=39rCWU7aLZUQ7kNvwHV3oqT&_nc_oc=AdmDRRLQ8pxrSIXzVBfYyjb9POYWo4en4bmwd7Ma3KyZFL_j5AMEHjezeXZWPjKPXnc&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=QI7i_wRDeFw0TY3fKlp3iA&oh=00_AfJ717kcJHQ91IFR-t4cEUvOqExDhVXYpnlJHZn43z-_tQ&oe=6827CB39",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t45.5328-4/496697796_1274408107435545_2922823311501105591_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=247b10&_nc_ohc=P864a6QqoQgQ7kNvwFYKO62&_nc_oc=Admcszv9S41bhRGVHwMoj8joa2kreHmAYLGW4JmkN7mnFroQgZjH-wSVatIadwv37l0&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=QI7i_wRDeFw0TY3fKlp3iA&oh=00_AfJv-wK4ykvB_WoTCD6IYgvB1u1tfJWCdPP-XkUlmclzcA&oe=6827C3B6"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100035770060486,
+        "profile_name": "Dennis Deng",
+        "is_dealership": true,
+        "lives_in": "St. Charles, Missouri",
+        "joined_facebook_in": 2019,
+        "car_listings": 3,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100035770060486/"
+    }
+}

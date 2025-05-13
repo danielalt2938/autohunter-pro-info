@@ -1,0 +1,36 @@
+{
+    "date": "2025-05-05",
+    "product_title": "2011 Toyota camry Fulll",
+    "product_price": 2500,
+    "vehicle_info": {
+        "mileage": 20000,
+        "fuel_type": "Gasoline",
+        "interior_color": "White",
+        "exterior_color": "White"
+    },
+    "publication_info": {
+        "publication_id": 1044593470887969,
+        "publication_date": "2025-05-05",
+        "product_title": "2011 Toyota camry Fulll",
+        "product_price": 2500,
+        "publication_description": "Vendo En buenas condiciones el precio es poco negociable ",
+        "publication_link": "https://www.facebook.com/marketplace/item/1044593470887969/",
+        "publication_location": "Corona, NY",
+        "images": [
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/494691994_9684335218324536_2294224689579826054_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=454cf4&_nc_ohc=iFrAFrpo4FYQ7kNvwE1ufX1&_nc_oc=AdkK9JntwXQum6NQ7hQPuROSbA_qwVvB4yveLljtMGZPTqqVvU89EXboGxdQ3OI29xQ&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=1UBbWEKA_0VjT42xT_2SiA&oh=00_AfLppss4RKO9Cc06JNklS_WMVXirt_PmtdGmxlRa7ZBr0Q&oe=6827EB4C",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/494691994_9684335218324536_2294224689579826054_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=454cf4&_nc_ohc=iFrAFrpo4FYQ7kNvwE1ufX1&_nc_oc=AdkK9JntwXQum6NQ7hQPuROSbA_qwVvB4yveLljtMGZPTqqVvU89EXboGxdQ3OI29xQ&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=1UBbWEKA_0VjT42xT_2SiA&oh=00_AfLppss4RKO9Cc06JNklS_WMVXirt_PmtdGmxlRa7ZBr0Q&oe=6827EB4C",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/494423499_9684292844995440_2704807971468726518_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=946e27&_nc_ohc=DmtQ6fJad7AQ7kNvwHccxVL&_nc_oc=AdnjlME7_Z6wkRESSCpqY063ks0q-osg_CEHbLCSX23h45olG4XTHG0EOKAYqwO2iJ0&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=1UBbWEKA_0VjT42xT_2SiA&oh=00_AfLox5NNI3G9jdmqDVMrVl_qjpp3seESviFirJtTX8QCgA&oe=6827F1C7"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100002444614819,
+        "profile_name": "Dario Garcia",
+        "is_dealership": true,
+        "lives_in": "New York, New York",
+        "joined_facebook_in": 2011,
+        "car_listings": 5,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100002444614819/"
+    }
+}

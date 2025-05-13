@@ -1,0 +1,40 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2008 BMW 5 series 528i Sedan 4D",
+    "product_price": 4200,
+    "vehicle_info": {
+        "mileage": 164000,
+        "fuel_type": "Gasoline",
+        "interior_color": "Black",
+        "exterior_color": "Black",
+        "consumption": {
+            "city": 18.0,
+            "highway": 27.0
+        }
+    },
+    "publication_info": {
+        "publication_id": 3240368239435391,
+        "publication_date": "2025-05-12",
+        "product_title": "2008 BMW 5 series 528i Sedan 4D",
+        "product_price": 4200,
+        "publication_description": "Vendo BMW en perfecto estado f\u00edsico y funcional t\u00edtulo limpio interior todo en cuero acientos el\u00e9ctricos llantas nuevas negociable See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/3240368239435391/",
+        "publication_location": "Plainfield, NJ",
+        "images": [
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/496933261_1393468435308733_3949424677201085667_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=454cf4&_nc_ohc=Map28XUm_UwQ7kNvwG6X45U&_nc_oc=AdksAuAPp1LdvJWYkVl_PcIpVq5nTH781gwMHeWMFoIqVJHsm4J1sNLY0Yync2FoMFU&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=2eAyISptkpRkJwY-I2WNjA&oh=00_AfKm21S1xI-DxeHg9OyAYsCIy3xHnlw_AtxeLBgxhdR0yg&oe=6827C2BF",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/496933261_1393468435308733_3949424677201085667_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=454cf4&_nc_ohc=Map28XUm_UwQ7kNvwG6X45U&_nc_oc=AdksAuAPp1LdvJWYkVl_PcIpVq5nTH781gwMHeWMFoIqVJHsm4J1sNLY0Yync2FoMFU&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=2eAyISptkpRkJwY-I2WNjA&oh=00_AfKm21S1xI-DxeHg9OyAYsCIy3xHnlw_AtxeLBgxhdR0yg&oe=6827C2BF",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/495038066_1393464881975755_8734261287178018561_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=946e27&_nc_ohc=zAN5bbmXZZEQ7kNvwHFYdyc&_nc_oc=AdlaP4oATffhZ1wqZrZLA9pFlrdP4uxXGW9DijbgoSN9M5oGpTW8jJFS-rODh0Y4Mos&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=2eAyISptkpRkJwY-I2WNjA&oh=00_AfLPor_emv4pAHNXE-c9gJwZvoDBjFBD2BCW4Lxb-gTRQg&oe=6827D54B"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100039367688049,
+        "profile_name": "Gabriel Pati\u00f1o",
+        "is_dealership": true,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2019,
+        "car_listings": 3,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100039367688049/"
+    }
+}

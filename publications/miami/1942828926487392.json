@@ -1,0 +1,41 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2009 Toyota corolla LE Sedan 4D",
+    "product_price": 3700,
+    "vehicle_info": {
+        "mileage": 130000,
+        "fuel_type": "Gasoline",
+        "interior_color": "",
+        "exterior_color": "Tan",
+        "consumption": {
+            "city": 27.0,
+            "highway": 35.0
+        },
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 1942828926487392,
+        "publication_date": "2025-05-12",
+        "product_title": "2009 Toyota corolla LE Sedan 4D",
+        "product_price": 3700,
+        "publication_description": "In good condition clean title in hand a/c touch screen radio se habla espanol esta muy bueno  ",
+        "publication_link": "https://www.facebook.com/marketplace/item/1942828926487392/",
+        "publication_location": "Miami, FL",
+        "images": [
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/496820415_1723426415721783_7515661825691191377_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=454cf4&_nc_ohc=TgFK3ZuFOjcQ7kNvwH893mX&_nc_oc=Adnz5ScLsxAmJ0VbqbmQf2hedthPg4TtxYLgTjrFh6-UKnTQ4-3W1LiBHO6lupMTirU&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=NDn8Ap65Ytuy-lBbjaOBVQ&oh=00_AfIKP2_ryM78I6Mm6ufOkriOAfGKLyiVihyhphnCT0SAaw&oe=6827B3A8",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/496820415_1723426415721783_7515661825691191377_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=454cf4&_nc_ohc=TgFK3ZuFOjcQ7kNvwH893mX&_nc_oc=Adnz5ScLsxAmJ0VbqbmQf2hedthPg4TtxYLgTjrFh6-UKnTQ4-3W1LiBHO6lupMTirU&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=NDn8Ap65Ytuy-lBbjaOBVQ&oh=00_AfIKP2_ryM78I6Mm6ufOkriOAfGKLyiVihyhphnCT0SAaw&oe=6827B3A8",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/497448125_1723422905722134_6536168820311098574_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=946e27&_nc_ohc=Ks3S0Anufz8Q7kNvwGOT_fW&_nc_oc=AdkR8YjxKtOGWJb9DDCm6yNnpcxGVxH9HmCBpZNeRS6NtjhppOtkaFQ-dHN8gYI44Ys&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=NDn8Ap65Ytuy-lBbjaOBVQ&oh=00_AfL4rC7_6myug4uQYxxqE2-SKi5hIKnvwbxoXBUBUVxDtQ&oe=6827CED4"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100041633226168,
+        "profile_name": "Danny Contreras",
+        "is_dealership": true,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2019,
+        "car_listings": 10,
+        "rating": 3.5,
+        "ratings_number": 12,
+        "profile_link": "https://www.facebook.com/marketplace/profile/100041633226168/"
+    }
+}

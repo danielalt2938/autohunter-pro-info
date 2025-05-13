@@ -1,0 +1,41 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2016 Chevrolet impala LT Sedan 4D",
+    "product_price": 2500,
+    "vehicle_info": {
+        "mileage": 210000,
+        "fuel_type": "Gasoline",
+        "interior_color": "Grey",
+        "exterior_color": "Silver",
+        "consumption": {
+            "city": 19.0,
+            "highway": 29.0
+        },
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 1047216950633843,
+        "publication_date": "2025-05-12",
+        "product_title": "2016 Chevrolet impala LT Sedan 4D",
+        "product_price": 2500,
+        "publication_description": "Runs and Drive perfectly fine ",
+        "publication_link": "https://www.facebook.com/marketplace/item/1047216950633843/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/497676136_3055784317922548_7878823251458139695_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=454cf4&_nc_ohc=jthZvH2thHwQ7kNvwEbBHQi&_nc_oc=AdnAIkgt5YMWRIsKUh7Dowsxd_D_T1orpDNdPj52EPj4xW_gLTYhs3TlQRwF6MD2I0k&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=QUdDLB4DbuX8TtWqDKee6A&oh=00_AfJXzEwsekTLM-wPDjjHXhMXcf6pmXsCZ97xXBFcejspRQ&oe=6827BAC3",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/497676136_3055784317922548_7878823251458139695_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=454cf4&_nc_ohc=jthZvH2thHwQ7kNvwEbBHQi&_nc_oc=AdnAIkgt5YMWRIsKUh7Dowsxd_D_T1orpDNdPj52EPj4xW_gLTYhs3TlQRwF6MD2I0k&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=QUdDLB4DbuX8TtWqDKee6A&oh=00_AfJXzEwsekTLM-wPDjjHXhMXcf6pmXsCZ97xXBFcejspRQ&oe=6827BAC3",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/496079217_3055781924589454_1248728725325843274_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=946e27&_nc_ohc=ufb8Seq7wZ0Q7kNvwE1wAt1&_nc_oc=Adnxbhlfv0IuOfblhw3ESdWn8ELhMLc6PTVY5dfcfINj_k03p7Qy1O4MHnxjbxAEArI&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=QUdDLB4DbuX8TtWqDKee6A&oh=00_AfIPAWzqLaFmweEeY499BvltkeFp6uQgq_4dfdw4MOyUQQ&oe=6827CC12"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100004730292410,
+        "profile_name": "Remy Martin",
+        "is_dealership": true,
+        "lives_in": "Paterson, New Jersey",
+        "joined_facebook_in": 2012,
+        "car_listings": 9,
+        "rating": 3.5,
+        "ratings_number": 32,
+        "profile_link": "https://www.facebook.com/marketplace/profile/100004730292410/"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "2025-05-11",
+    "product_title": "2010 Ford mustang",
+    "product_price": 1500,
+    "vehicle_info": {
+        "mileage": 170000,
+        "fuel_type": "Gasoline",
+        "interior_color": "",
+        "exterior_color": "Blue"
+    },
+    "publication_info": {
+        "publication_id": 3720830781541059,
+        "publication_date": "2025-05-11",
+        "product_title": "2010 Ford mustang",
+        "product_price": 1500,
+        "publication_description": "2010 ford mustang 4.0 engine and transmission. 170,000 miles. \nComplete engine with harness and brain $1,500.   \nTransmission $1,000 See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/3720830781541059/",
+        "publication_location": "Collinsville, IL",
+        "images": [
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/496769143_122125998128418273_1010032830411467094_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=454cf4&_nc_ohc=7IYHiFNx8MEQ7kNvwE9EqXd&_nc_oc=Adk-sHhy91kI3tNVUjQi4yw8wV1dFcglTatdYAITT2hRX3Pk5aEHU1g1xZYW8qTORJ8&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=uGiqNnTRblG-_ay127u8vA&oh=00_AfJsVZVCyIyzRz-D-LLpbGcfY1IVxi9PSzb-G0IiK_m_dA&oe=6827DAB8",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/496769143_122125998128418273_1010032830411467094_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=454cf4&_nc_ohc=7IYHiFNx8MEQ7kNvwE9EqXd&_nc_oc=Adk-sHhy91kI3tNVUjQi4yw8wV1dFcglTatdYAITT2hRX3Pk5aEHU1g1xZYW8qTORJ8&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=uGiqNnTRblG-_ay127u8vA&oh=00_AfJsVZVCyIyzRz-D-LLpbGcfY1IVxi9PSzb-G0IiK_m_dA&oe=6827DAB8",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/496005685_122125997426418273_7433207905580677808_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=946e27&_nc_ohc=dfLIBlLZoSQQ7kNvwFM8_gV&_nc_oc=AdniNKj_KEub2yPOHI9awljJ95ijuIPM1J1VlSWnlil_2bOwl4y9f5ylx1jB3b0RR78&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=uGiqNnTRblG-_ay127u8vA&oh=00_AfLcMU3v-fEpdnz5iNEgNl2DlFPBcYC-DuAo8Fjno_iPrQ&oe=6827C97E"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 61562548216026,
+        "profile_name": "Justin Baker",
+        "is_dealership": false,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2024,
+        "car_listings": 1,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/61562548216026/"
+    }
+}

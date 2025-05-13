@@ -1,0 +1,40 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2018 Toyota corolla LE Sedan 4D",
+    "product_price": 8700,
+    "vehicle_info": {
+        "mileage": 120000,
+        "fuel_type": "Gasoline",
+        "interior_color": "",
+        "exterior_color": "Red",
+        "consumption": {
+            "city": 28.0,
+            "highway": 36.0
+        }
+    },
+    "publication_info": {
+        "publication_id": 709843551733717,
+        "publication_date": "2025-05-12",
+        "product_title": "2018 Toyota corolla LE Sedan 4D",
+        "product_price": 8700,
+        "publication_description": "2018 Toyota Corolla \nVeh\u00edculo en excelente condiciones\nInterior impecable\nAire fr\u00edo\nCamera retroceso\nCuatro gomas nuevas \nT\u00edtulo limpio  See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/709843551733717/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/495580848_577548648711364_1590031863516140068_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=454cf4&_nc_ohc=cU_IUVNmjJsQ7kNvwE7B_7x&_nc_oc=Adn7PglRuVc2ClEFkagmpXJOQb0-jADPyOfXKMyVMSkXofU2nVldfJJf9JZcn5A8c3I&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=lcoe3cKaAK1K8tlB6MTvKA&oh=00_AfIC_zYdCKnPJdQ91YionogqJSRn-XvkliemnLnf0QxI0g&oe=6827CED6",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/495580848_577548648711364_1590031863516140068_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=454cf4&_nc_ohc=cU_IUVNmjJsQ7kNvwE7B_7x&_nc_oc=Adn7PglRuVc2ClEFkagmpXJOQb0-jADPyOfXKMyVMSkXofU2nVldfJJf9JZcn5A8c3I&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=lcoe3cKaAK1K8tlB6MTvKA&oh=00_AfIC_zYdCKnPJdQ91YionogqJSRn-XvkliemnLnf0QxI0g&oe=6827CED6",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/495940644_577543638711865_735418672318023043_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=946e27&_nc_ohc=bLUzriRsScAQ7kNvwFTLQw2&_nc_oc=AdnWf0TfgnGMx5EGNGRwQyL08DayTHHN9QhKxuh-NObqHGo5OHQu7udgWU4oJssNz28&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=lcoe3cKaAK1K8tlB6MTvKA&oh=00_AfLJ7FMzUexTGuQoZ7lpE2Qk8OFgHtUNgzVBHjT2mmKfrg&oe=6827FA07"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100093687015931,
+        "profile_name": "Mike Angelo",
+        "is_dealership": true,
+        "lives_in": "West Kendall",
+        "joined_facebook_in": 2023,
+        "car_listings": 5,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100093687015931/"
+    }
+}

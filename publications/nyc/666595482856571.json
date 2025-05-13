@@ -1,0 +1,41 @@
+{
+    "date": "2025-05-09",
+    "product_title": "2013 Ford escape SEL Sport Utility 4D",
+    "product_price": 5995,
+    "vehicle_info": {
+        "mileage": 94000,
+        "fuel_type": "Gasoline",
+        "interior_color": "Black",
+        "exterior_color": "Black",
+        "consumption": {
+            "city": 21.0,
+            "highway": 28.0
+        },
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 666595482856571,
+        "publication_date": "2025-05-09",
+        "product_title": "2013 Ford escape SEL Sport Utility 4D",
+        "product_price": 5995,
+        "publication_description": "Clean title, clean carfax, navigation, panoramic roof, remote sratert, power tailgate, heated seats, runs excellent no mechanical issue. See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/666595482856571/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/495377160_9815103411937873_5506508135887800950_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=454cf4&_nc_ohc=KEeIYXStxiAQ7kNvwEBfqn6&_nc_oc=AdkwGxItnjgE3JBiX4ahnVnxp4tYvOhXHUcSoOnGmRVH1LX97YnfR5qpvjAuyjKQx8s&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=8zo8ZH1aLhoTGR5z2P5mIg&oh=00_AfJj7LT3MaLCJntunDJUyBAIt0gt7n_1XvN7IqowfCd5RQ&oe=6827C859",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/495377160_9815103411937873_5506508135887800950_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=454cf4&_nc_ohc=KEeIYXStxiAQ7kNvwEBfqn6&_nc_oc=AdkwGxItnjgE3JBiX4ahnVnxp4tYvOhXHUcSoOnGmRVH1LX97YnfR5qpvjAuyjKQx8s&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=8zo8ZH1aLhoTGR5z2P5mIg&oh=00_AfJj7LT3MaLCJntunDJUyBAIt0gt7n_1XvN7IqowfCd5RQ&oe=6827C859",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/494677515_9815078758607005_530837769863512482_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=946e27&_nc_ohc=gGKkQVlPbnwQ7kNvwEIopqG&_nc_oc=AdnqGjzUTgZbbtyoqyu048FVXo_NKkJQHMURK6OQSqOM3JFbo2qqcocs_RtT52Wk1wg&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=8zo8ZH1aLhoTGR5z2P5mIg&oh=00_AfIVYraImTWbDWPcVxm8ujSzFNnp1nh_4IAmWJmO3kRb1Q&oe=6827EFC3"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100003149364604,
+        "profile_name": "Bilal Haider",
+        "is_dealership": true,
+        "lives_in": "Rutherford, New Jersey",
+        "joined_facebook_in": 2011,
+        "car_listings": 12,
+        "rating": 4.4,
+        "ratings_number": 231,
+        "profile_link": "https://www.facebook.com/marketplace/profile/100003149364604/"
+    }
+}

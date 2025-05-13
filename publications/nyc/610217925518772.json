@@ -1,0 +1,36 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2005 BMW 3 series",
+    "product_price": 1200,
+    "vehicle_info": {
+        "mileage": 170000,
+        "fuel_type": "Automatic transmission",
+        "interior_color": "Tan",
+        "exterior_color": "Grey"
+    },
+    "publication_info": {
+        "publication_id": 610217925518772,
+        "publication_date": "2025-05-12",
+        "product_title": "2005 BMW 3 series",
+        "product_price": 1200,
+        "publication_description": "Runs N Drives \nClean Title \nNo Engine Light  ",
+        "publication_link": "https://www.facebook.com/marketplace/item/610217925518772/",
+        "publication_location": "Jamaica, NY",
+        "images": [
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/496005450_1969468640128776_2371962468861537731_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=454cf4&_nc_ohc=NnzPFs65EJkQ7kNvwGS5yAc&_nc_oc=Adlq6yDpikk9MUGwj4yAacHdbLqYQZiLWhu0VG9LpuRDQ6dVPbw4MNHkl5qZOXv7jkE&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=J6dcQxQwr2Fn0ZhulTGEBQ&oh=00_AfK4mZca8q8pK4IH2eqCO-3PoUHebzWFh4GI99je00EH9g&oe=6827CFB5",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/496005450_1969468640128776_2371962468861537731_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=454cf4&_nc_ohc=NnzPFs65EJkQ7kNvwGS5yAc&_nc_oc=Adlq6yDpikk9MUGwj4yAacHdbLqYQZiLWhu0VG9LpuRDQ6dVPbw4MNHkl5qZOXv7jkE&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=J6dcQxQwr2Fn0ZhulTGEBQ&oh=00_AfK4mZca8q8pK4IH2eqCO-3PoUHebzWFh4GI99je00EH9g&oe=6827CFB5",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/496871472_1969464900129150_3749519943638937135_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=946e27&_nc_ohc=yq4hdvdXWzsQ7kNvwEnnT1g&_nc_oc=AdmaL7wYl4LETIHGTCQYNP-l-Vm4oSlecrd6-dF777NIocLVgATVE0do4dHwerUNsi0&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=J6dcQxQwr2Fn0ZhulTGEBQ&oh=00_AfIrVHuTjUN_C7_PMwoJJt0EOG2tgxn7G7sT3C60BKgUUQ&oe=6827CE63"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100011969769286,
+        "profile_name": "Leigha Mae Glasper",
+        "is_dealership": true,
+        "lives_in": "Newburgh, New York",
+        "joined_facebook_in": 2016,
+        "car_listings": 2,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100011969769286/"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "2025-05-11",
+    "product_title": "2014 Ford focus",
+    "product_price": 4500,
+    "vehicle_info": {
+        "mileage": 112523,
+        "fuel_type": "Gasoline",
+        "interior_color": "Black",
+        "exterior_color": "Silver"
+    },
+    "publication_info": {
+        "publication_id": 1257991189081537,
+        "publication_date": "2025-05-11",
+        "product_title": "2014 Ford focus",
+        "product_price": 4500,
+        "publication_description": "2014 ford focus 112 mil millas perfectas condici\u00f3nes motor transmission aire acondicionado calefaccion todo est\u00e1 funcionando bien titul\u00f3 limpio listo para registrar  See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/1257991189081537/",
+        "publication_location": "Elizabeth, NJ",
+        "images": [
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/495383196_998821739096871_1324540048583607917_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=454cf4&_nc_ohc=g8UiN69HJIEQ7kNvwEf74Sk&_nc_oc=AdngLahG_ClpQlhENyMjvMEKntLl1VMV9G_3KUhssBS_lzO_-K-7xSiyD8clHfM7cOQ&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=5lJO_UMhaPvUZFZJQy-YqA&oh=00_AfI7GJf4hzf70-I3kns7WC96Elq6MudsRnpBgizNH7U1tw&oe=6827F2D9",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/495383196_998821739096871_1324540048583607917_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=454cf4&_nc_ohc=g8UiN69HJIEQ7kNvwEf74Sk&_nc_oc=AdngLahG_ClpQlhENyMjvMEKntLl1VMV9G_3KUhssBS_lzO_-K-7xSiyD8clHfM7cOQ&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=5lJO_UMhaPvUZFZJQy-YqA&oh=00_AfI7GJf4hzf70-I3kns7WC96Elq6MudsRnpBgizNH7U1tw&oe=6827F2D9",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/494615712_998819575763754_2012164743901151757_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=946e27&_nc_ohc=O4vh2FsuiU0Q7kNvwHEdU9R&_nc_oc=AdmrMd2CBQDAZzYLvbAcVzAFhv_iSfHkbYxQM3N1St0buTzKQl7nv1AXFQrRxjQSrCo&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=5lJO_UMhaPvUZFZJQy-YqA&oh=00_AfLln17XFeAg4QXh_k3q_JVn1DcXJeyUId_Eom_XQRSnxw&oe=6827F4D6"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100069071615246,
+        "profile_name": "Manuel Pereira",
+        "is_dealership": true,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2021,
+        "car_listings": 2,
+        "rating": 4.3,
+        "ratings_number": 21,
+        "profile_link": "https://www.facebook.com/marketplace/profile/100069071615246/"
+    }
+}

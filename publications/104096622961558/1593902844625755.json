@@ -1,0 +1,37 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2014 Honda pilot ex-l",
+    "product_price": 10900,
+    "vehicle_info": {
+        "mileage": 141205,
+        "fuel_type": "Gasoline",
+        "interior_color": "Grey",
+        "exterior_color": "Grey",
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 1593902844625755,
+        "publication_date": "2025-05-12",
+        "product_title": "2014 Honda pilot ex-l",
+        "product_price": 10900,
+        "publication_description": "2014 Honda Pilot EX-L AWD ",
+        "publication_link": "https://www.facebook.com/marketplace/item/1593902844625755/",
+        "publication_location": "St Louis, MO",
+        "images": [
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t45.5328-4/496431004_1123017626509956_7978051063606078323_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=247b10&_nc_ohc=7uE1u0YsTqEQ7kNvwHcTJrb&_nc_oc=AdmSs8ABNHVGKqYXVbcGluVkLQlo1BafHjgf0eQg54vXoDJ3yT0q4wufXn0USGZVMjU&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=VJwsy2pHNXOOsNPM-ve2tg&oh=00_AfIe1oHevjGx9-wGNdYbdrQrrCgRWylmP1oD5GP19YwMtw&oe=6827E7E2",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t45.5328-4/496431004_1123017626509956_7978051063606078323_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=247b10&_nc_ohc=7uE1u0YsTqEQ7kNvwHcTJrb&_nc_oc=AdmSs8ABNHVGKqYXVbcGluVkLQlo1BafHjgf0eQg54vXoDJ3yT0q4wufXn0USGZVMjU&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=VJwsy2pHNXOOsNPM-ve2tg&oh=00_AfIe1oHevjGx9-wGNdYbdrQrrCgRWylmP1oD5GP19YwMtw&oe=6827E7E2",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t45.5328-4/496283140_2548360328848741_5343927605605282635_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=247b10&_nc_ohc=tUy92Zem7wYQ7kNvwFm-Mp6&_nc_oc=AdkQGjjmbs1_Z3Z3XCYxUlSDiDFzMsB_QoTxPmAvyvkIXJ_9PfxOHKqknBWtTMNaqkc&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=VJwsy2pHNXOOsNPM-ve2tg&oh=00_AfL6iSAkqXo3JBP7eVvPZl1Ut3ECorkuwZ1PCIsmHk6lFw&oe=6827F4AF"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 1293660021,
+        "profile_name": "Courtney Chambers",
+        "is_dealership": true,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2006,
+        "car_listings": 12,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/1293660021/"
+    }
+}

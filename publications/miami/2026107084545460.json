@@ -1,0 +1,36 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2014 BMW 4 series",
+    "product_price": 6900,
+    "vehicle_info": {
+        "mileage": 164000,
+        "fuel_type": "Gasoline",
+        "interior_color": "",
+        "exterior_color": "Blue"
+    },
+    "publication_info": {
+        "publication_id": 2026107084545460,
+        "publication_date": "2025-05-12",
+        "product_title": "2014 BMW 4 series",
+        "product_price": 6900,
+        "publication_description": "Cash \ud83d\udcb0  ",
+        "publication_link": "https://www.facebook.com/marketplace/item/2026107084545460/",
+        "publication_location": "Miami, FL",
+        "images": [
+            "https://scontent-mia5-2.xx.fbcdn.net/v/t39.30808-6/497560609_1239348494480421_6346232296708936297_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=454cf4&_nc_ohc=I8nLXBNsCB8Q7kNvwFhXSAe&_nc_oc=AdlHSJgMF2HdewWnDEJaQ2olEYQjHQ64iJvdBtW7YO6xHhKfAfFV_GS7uwSSjtZTmx4&_nc_zt=23&_nc_ht=scontent-mia5-2.xx&_nc_gid=3PL5N3etpFaYuTp2sNpuNg&oh=00_AfI4expRdAACkv7rYLWDTGf8yQ0blpgEcUEKsgEp6TwZWw&oe=6827CBB3",
+            "https://scontent-mia5-2.xx.fbcdn.net/v/t39.30808-6/497560609_1239348494480421_6346232296708936297_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=454cf4&_nc_ohc=I8nLXBNsCB8Q7kNvwFhXSAe&_nc_oc=AdlHSJgMF2HdewWnDEJaQ2olEYQjHQ64iJvdBtW7YO6xHhKfAfFV_GS7uwSSjtZTmx4&_nc_zt=23&_nc_ht=scontent-mia5-2.xx&_nc_gid=3PL5N3etpFaYuTp2sNpuNg&oh=00_AfI4expRdAACkv7rYLWDTGf8yQ0blpgEcUEKsgEp6TwZWw&oe=6827CBB3",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/497500031_1239345884480682_8205283676816102195_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=946e27&_nc_ohc=ZUq7r8iThHMQ7kNvwFbJkRo&_nc_oc=Adl-HK4BcG-qlbcRanNosdhty8yWKbjp9lqCuHOLcysGweUdUUnMsNcXkBkTycCprJA&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=3PL5N3etpFaYuTp2sNpuNg&oh=00_AfKkZWw-GV5u1LXlNIctv-3dBMCL2m_uaxWo0FEQencw0A&oe=6827F5D7"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100052158461104,
+        "profile_name": "Andreina Carolina",
+        "is_dealership": true,
+        "lives_in": "Miami Beach, Florida",
+        "joined_facebook_in": 2020,
+        "car_listings": 12,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100052158461104/"
+    }
+}

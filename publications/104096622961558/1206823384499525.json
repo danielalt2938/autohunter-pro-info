@@ -1,0 +1,37 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2021 Jeep renegade latitude",
+    "product_price": 20000,
+    "vehicle_info": {
+        "mileage": 44573,
+        "fuel_type": "Gasoline",
+        "interior_color": "Black",
+        "exterior_color": "Black",
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 1206823384499525,
+        "publication_date": "2025-05-12",
+        "product_title": "2021 Jeep renegade latitude",
+        "product_price": 20000,
+        "publication_description": "Black Exterior \nBlack Interior \n44,573 miles\n4x4\n4 cyl \n21/29 Mpg ",
+        "publication_link": "https://www.facebook.com/marketplace/item/1206823384499525/",
+        "publication_location": "Hazelwood, MO",
+        "images": [
+            "https://scontent-mia5-2.xx.fbcdn.net/v/t45.5328-4/496518908_1106369961684571_6020886206949025332_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=247b10&_nc_ohc=2lp0tqmXMEcQ7kNvwEYHl7m&_nc_oc=Adk7z5e8K3YfryJSiyyarjRiJ_VVhXq5ZMmVYeh2_VjJNeENkM7P4XEcwoMr3BtdN10&_nc_zt=23&_nc_ht=scontent-mia5-2.xx&_nc_gid=iQlAM1iQw74K5MGIt8TBww&oh=00_AfKZa7HY87URQx_YHPZGmx2wRgDfD31vAL6vecx3Xp-LNQ&oe=6827E7E5",
+            "https://scontent-mia5-2.xx.fbcdn.net/v/t45.5328-4/496518908_1106369961684571_6020886206949025332_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=247b10&_nc_ohc=2lp0tqmXMEcQ7kNvwEYHl7m&_nc_oc=Adk7z5e8K3YfryJSiyyarjRiJ_VVhXq5ZMmVYeh2_VjJNeENkM7P4XEcwoMr3BtdN10&_nc_zt=23&_nc_ht=scontent-mia5-2.xx&_nc_gid=iQlAM1iQw74K5MGIt8TBww&oh=00_AfKZa7HY87URQx_YHPZGmx2wRgDfD31vAL6vecx3Xp-LNQ&oe=6827E7E5",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t45.5328-4/497845356_1359532742019253_8362768293824520342_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=247b10&_nc_ohc=X0H80HiWoD8Q7kNvwEr7psW&_nc_oc=Admuy67nTmzlqX-ybAI-r5higJSMAcCJsi_aBz1VqRQUZN5C0kSl--g43MZ_kEQDc4k&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=iQlAM1iQw74K5MGIt8TBww&oh=00_AfILlzNKBctdqWV_FyonAvtNzag9Uaklfx2OfBgfmGm1UA&oe=6827FF9A"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 657021004,
+        "profile_name": "Matt Rankin",
+        "is_dealership": true,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2007,
+        "car_listings": 12,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/657021004/"
+    }
+}

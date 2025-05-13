@@ -1,0 +1,41 @@
+{
+    "date": "2025-05-10",
+    "product_title": "2019 Nissan sentra SV Sedan 4D",
+    "product_price": 11300,
+    "vehicle_info": {
+        "mileage": 89453,
+        "fuel_type": "Automatic transmission",
+        "interior_color": "Black",
+        "exterior_color": "Grey",
+        "consumption": {
+            "city": 29.0,
+            "highway": 37.0
+        },
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 1000532772245041,
+        "publication_date": "2025-05-10",
+        "product_title": "2019 Nissan sentra SV Sedan 4D",
+        "product_price": 11300,
+        "publication_description": "Clean little car perfect for a daily commute or even first time drivers. Excellent fuel economy. 2 owner and clean carfax!! Financing options available for qualified buyers. See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/1000532772245041/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia5-2.xx.fbcdn.net/v/t39.30808-6/495432878_3057708124391751_4335508324342504958_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=454cf4&_nc_ohc=ekxve2iatnUQ7kNvwFFad5e&_nc_oc=Admk5LKY_YUEvPG_AwNsn76wrmjPcZRiUq1F2p-HTNu7Gl6KQVdEyIWLgG3LGFQZXaE&_nc_zt=23&_nc_ht=scontent-mia5-2.xx&_nc_gid=humkuPttYCl4erifVlEIXA&oh=00_AfKzpW4YH4FwSi3nQC8dgu0d3hsYCObvrHDcNSi4KjQAbA&oe=6827C3F1",
+            "https://scontent-mia5-2.xx.fbcdn.net/v/t39.30808-6/496147866_3057704787725418_7594024824500058237_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=946e27&_nc_ohc=o_37pRmymIMQ7kNvwEkw37v&_nc_oc=Adl80PokMp8qo9J91LAJL992pG4GrP6V637f1TmUmsPAPrWqg-lZJlPcuI8w_tsg7R4&_nc_zt=23&_nc_ht=scontent-mia5-2.xx&_nc_gid=humkuPttYCl4erifVlEIXA&oh=00_AfIJX9rq2Q-5j7jdXQJh9qF9XZUVf5lP7JYmd-jlXiNaRQ&oe=6827DF0B",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/494912606_3057704971058733_7587644658380162558_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=946e27&_nc_ohc=tGFdzKeguOcQ7kNvwE800UF&_nc_oc=Adkgo91Nr6xMIi-yxvl54JNagjKlrU7evKMevZn4p99CSW20wx6vHeF6q0iJ5z4aFhA&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=humkuPttYCl4erifVlEIXA&oh=00_AfJB2xO4TWVDPfycrJTtOtli3Lgl_hK8llwJ3OtoAHqQdQ&oe=6827F183"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100004577798046,
+        "profile_name": "Randy Love",
+        "is_dealership": true,
+        "lives_in": "Gillespie, Illinois",
+        "joined_facebook_in": 2012,
+        "car_listings": 10,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100004577798046/"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "date": "2025-05-10",
+    "product_title": "2013 Mercedes-Benz c-class C 300 4MATIC Sport Sedan 4D",
+    "product_price": 9900,
+    "vehicle_info": {
+        "mileage": 128000,
+        "fuel_type": "Gasoline",
+        "interior_color": "Black",
+        "exterior_color": "White",
+        "consumption": {
+            "city": 20.0,
+            "highway": 29.0
+        },
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 569567299071834,
+        "publication_date": "2025-05-10",
+        "product_title": "2013 Mercedes-Benz c-class C 300 4MATIC Sport Sedan 4D",
+        "product_price": 9900,
+        "publication_description": "2013 Mercedes C300   very clean 4 door with sunroof. ",
+        "publication_link": "https://www.facebook.com/marketplace/item/569567299071834/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/496295579_10212904316038828_3175876168500970466_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=454cf4&_nc_ohc=6xvlhscD1wQQ7kNvwGtn3V6&_nc_oc=Adn-ZZqUb7opeAqkOdo71IjR5RYAViVggLsjmuqbRU37N-4Bco0J4HpjNE9ZQjI2qZ4&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=2Z_kfFIN5Oz6ZeoAVDy6Tw&oh=00_AfJT7iPcAafhXS5JSSj3tiXK0b10LF_YRJnncZndFj5Nvw&oe=6827C4E6",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/496295579_10212904316038828_3175876168500970466_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=454cf4&_nc_ohc=6xvlhscD1wQQ7kNvwGtn3V6&_nc_oc=Adn-ZZqUb7opeAqkOdo71IjR5RYAViVggLsjmuqbRU37N-4Bco0J4HpjNE9ZQjI2qZ4&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=2Z_kfFIN5Oz6ZeoAVDy6Tw&oh=00_AfJT7iPcAafhXS5JSSj3tiXK0b10LF_YRJnncZndFj5Nvw&oe=6827C4E6",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/495200194_10212904294198282_4760289217816570901_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=946e27&_nc_ohc=w9XD2jBmIeUQ7kNvwGStbCm&_nc_oc=AdmWmWDidzVECyAOcluFK_RQYBb_nTWMM69DOc-kxIZe2TCQr3n5lzuKvoN-K4ctWUs&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=2Z_kfFIN5Oz6ZeoAVDy6Tw&oh=00_AfL_wTA2gWlMKRdRYW4j1-9KHHlOx0PQvBOobCy543VsyQ&oe=6827D5C1"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 1717999756,
+        "profile_name": "Kathy Rogers-Grant",
+        "is_dealership": false,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2009,
+        "car_listings": 1,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/1717999756/"
+    }
+}

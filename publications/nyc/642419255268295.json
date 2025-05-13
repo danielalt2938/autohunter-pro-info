@@ -1,0 +1,36 @@
+{
+    "date": "2025-04-28",
+    "product_title": "2007 Honda shadow",
+    "product_price": 3100,
+    "vehicle_info": {
+        "mileage": 4200,
+        "fuel_type": "Manual transmission",
+        "interior_color": "",
+        "exterior_color": "Black"
+    },
+    "publication_info": {
+        "publication_id": 642419255268295,
+        "publication_date": "2025-04-28",
+        "product_title": "2007 Honda shadow",
+        "product_price": 3100,
+        "publication_description": "Honda shadow 750, Mint condition, garage kept, new back fender.  ",
+        "publication_link": "https://www.facebook.com/marketplace/item/642419255268295/",
+        "publication_location": "East Williston, NY",
+        "images": [
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/494182002_10162804558194456_2495866883748624420_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=454cf4&_nc_ohc=jycDhWpHzuEQ7kNvwGZpLz1&_nc_oc=AdmBGywSxj6Jyf_ECfPlqPWvZ_TfPqWf_4UH5tTQVVHmm5P10vs4r9a18PdQHIeXVsg&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=lBSbESgkQSCdTPAr37jRTw&oh=00_AfL2ag85-3rVC83coshoIlfmKv_z6Ewc6m4qzjw3thUSfg&oe=6827F42B",
+            "https://scontent-mia5-2.xx.fbcdn.net/v/t39.30808-6/493255426_10162804540164456_3059553184443248027_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=946e27&_nc_ohc=PfrwHrG8dy8Q7kNvwHqwLo0&_nc_oc=Adlg61QvzgaTSid6fmBp_VWqr340sj6V4cSELi93eA5nkCXiVagSpCk8woZnjlMTG44&_nc_zt=23&_nc_ht=scontent-mia5-2.xx&_nc_gid=lBSbESgkQSCdTPAr37jRTw&oh=00_AfJNHq1zJ4Zmvtk1D5Hh5H1MOXip0XMIXur1TdkhHc0XzQ&oe=6827EAF2",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/493261372_10162804540174456_5701992907211874833_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=946e27&_nc_ohc=8zk6syYlk_4Q7kNvwHIExzw&_nc_oc=AdmpiQsOPq3u2UX_FOXNA6LXdgEamKXSqzZYHrHN93x6QDgHoP-3kcETcNr67c7LTpA&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=lBSbESgkQSCdTPAr37jRTw&oh=00_AfKLmR3ziWEZ3UtNsQkKLoqyi4Mtbdi-bR2x7LMD3GdSJA&oe=6827FC95"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 701364455,
+        "profile_name": "Jimmy N Jiffy Thadathil",
+        "is_dealership": false,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2009,
+        "car_listings": 1,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/701364455/"
+    }
+}

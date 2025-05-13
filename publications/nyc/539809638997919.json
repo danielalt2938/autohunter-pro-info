@@ -1,0 +1,41 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2001 Toyota camry LE Sedan 4D",
+    "product_price": 1900,
+    "vehicle_info": {
+        "mileage": 174766,
+        "fuel_type": "Gasoline",
+        "interior_color": "Grey",
+        "exterior_color": "Grey",
+        "consumption": {
+            "city": 20.0,
+            "highway": 29.0
+        },
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 539809638997919,
+        "publication_date": "2025-05-12",
+        "product_title": "2001 Toyota camry LE Sedan 4D",
+        "product_price": 1900,
+        "publication_description": "CLEAN TITLE \nRUNS PERFECT \nENGINE&TRANS 100%\nNO CHECK ENGINE LIGHT\nONE OWNER \nCHILLY A/C \nCLEAN INSIDE OUT\nTITLE IN HAND \nSERIOUS BUYER ONLY \nAVAILABLE UNTIL SOLD  See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/539809638997919/",
+        "publication_location": "Newark, NJ",
+        "images": [
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/497590529_661017003596376_8722727171775535989_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=454cf4&_nc_ohc=y2hre1rF5JwQ7kNvwEXWIsW&_nc_oc=AdlTfTfbw5ntzvU9XmoSwRzej0QV_oIAuX9HaaY_E6qto_AgEP-SRH7_hsTizk7O3C4&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=_aOCcvVsZhpBAfOO1Aqa8g&oh=00_AfJmlbbtjR7kksI8dE49WRNz5G1_bDYvV0XZ0uKdxjAKkA&oe=6827D619",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/493406475_661012490263494_2636466055263266851_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=946e27&_nc_ohc=PtugGCHN8xgQ7kNvwFsUdgn&_nc_oc=AdnDEPAFHlug4INmShou9d2ba21Sbfm4LjXrX0NoDvZl-mQKGr5K_OqwLcWpypbve_A&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=_aOCcvVsZhpBAfOO1Aqa8g&oh=00_AfLyDGwjqD-OQpWk0V4k-1fIBRmt8-7Pvia_JB-OESJCtQ&oe=6827CB58",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/497456975_661012540263489_147707137224280617_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=946e27&_nc_ohc=dkskZNxQWUQQ7kNvwER_OhC&_nc_oc=Adnl1qKSQDg4yXWkycMknoSA35Oer9Q3KXA-vWej9ODasth3HjJ5_3_Bae8JWfSOhWA&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=_aOCcvVsZhpBAfOO1Aqa8g&oh=00_AfIjF3BDx4b4jGPCLUqKSbUL3kEiM8ayIoSVZQ9B6_oJ_A&oe=6827B801"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100090642453091,
+        "profile_name": "Kaka Batistuta",
+        "is_dealership": true,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2023,
+        "car_listings": 6,
+        "rating": 3.9,
+        "ratings_number": 11,
+        "profile_link": "https://www.facebook.com/marketplace/profile/100090642453091/"
+    }
+}

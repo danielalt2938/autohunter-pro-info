@@ -1,0 +1,40 @@
+{
+    "date": "2025-05-05",
+    "product_title": "2014 Audi rs 7 Prestige Sedan 4D",
+    "product_price": 35995,
+    "vehicle_info": {
+        "mileage": 80010,
+        "fuel_type": "Automatic transmission",
+        "interior_color": "",
+        "exterior_color": "Grey",
+        "consumption": {
+            "city": 16.0,
+            "highway": 27.0
+        }
+    },
+    "publication_info": {
+        "publication_id": 978828581121162,
+        "publication_date": "2025-05-05",
+        "product_title": "2014 Audi rs 7 Prestige Sedan 4D",
+        "product_price": 35995,
+        "publication_description": "N/A",
+        "publication_link": "https://www.facebook.com/marketplace/item/978828581121162/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/495208503_1755550338505590_2232165828327160874_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=454cf4&_nc_ohc=wck9n8PNzdsQ7kNvwH8L9AU&_nc_oc=Adl7On-Ozg6Sq-jzMcORY5vYeb--uV-37qsDky5B-zYavLY81YOl0kx8uxtkybU_X_Q&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=gdoLBGEsprJrZ0xHhy2FYQ&oh=00_AfLnMGtFOQyJeblfUFurKikzARvB6aB59rFvzkk-g7xERA&oe=6827F218",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/495208503_1755550338505590_2232165828327160874_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=454cf4&_nc_ohc=wck9n8PNzdsQ7kNvwH8L9AU&_nc_oc=Adl7On-Ozg6Sq-jzMcORY5vYeb--uV-37qsDky5B-zYavLY81YOl0kx8uxtkybU_X_Q&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=gdoLBGEsprJrZ0xHhy2FYQ&oh=00_AfLnMGtFOQyJeblfUFurKikzARvB6aB59rFvzkk-g7xERA&oe=6827F218",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/495565742_1755547751839182_6093539337694541457_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=946e27&_nc_ohc=Af7dcCswYdEQ7kNvwGj0K3K&_nc_oc=Adl0nkvhSm3k_K5j02vm7voQQAex-UQg8CQUB-eq8MkqbN6edL3FD_mnjYlhen_-0PU&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=gdoLBGEsprJrZ0xHhy2FYQ&oh=00_AfL6s5OCAsg034LzH6B__gDIP9n8hBTyFB10G_7VtjddAA&oe=6827CDF9"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100021519214641,
+        "profile_name": "N/A",
+        "is_dealership": false,
+        "lives_in": "N/A",
+        "joined_facebook_in": "N/A",
+        "car_listings": 0,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100021519214641/"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "date": "2025-05-10",
+    "product_title": "2004 Honda cr-v",
+    "product_price": 2500,
+    "vehicle_info": {
+        "mileage": 134000,
+        "fuel_type": "Gasoline",
+        "interior_color": "Tan",
+        "exterior_color": "Green",
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 1075367381305820,
+        "publication_date": "2025-05-10",
+        "product_title": "2004 Honda cr-v",
+        "product_price": 2500,
+        "publication_description": "2004 Honda CRV \n~ 134,000 Miles \nSlight Fender Damage \nSold as is ",
+        "publication_link": "https://www.facebook.com/marketplace/item/1075367381305820/",
+        "publication_location": "Queens Village, NY",
+        "images": [
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/496886509_3050644195098675_186965966741658671_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=454cf4&_nc_ohc=CcFLBhtiOmMQ7kNvwHIs4R-&_nc_oc=AdltipWF2mHB9watZJ8rEJxvlRouPxlUg5n4SujCIeelCtXFZCrs1eUqVtCXCy54Yww&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=nwGKMjU3nzK7Bt2InJpYiQ&oh=00_AfLYuGlcqKNsihPHFKZkEZoPLI3txUwhdpA8kgRr0tLaEA&oe=6827E5C4",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/496886509_3050644195098675_186965966741658671_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=454cf4&_nc_ohc=CcFLBhtiOmMQ7kNvwHIs4R-&_nc_oc=AdltipWF2mHB9watZJ8rEJxvlRouPxlUg5n4SujCIeelCtXFZCrs1eUqVtCXCy54Yww&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=nwGKMjU3nzK7Bt2InJpYiQ&oh=00_AfLYuGlcqKNsihPHFKZkEZoPLI3txUwhdpA8kgRr0tLaEA&oe=6827E5C4",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/495334721_3050640105099084_2042976137230426368_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=946e27&_nc_ohc=NKBvoNGiMHsQ7kNvwHECsFD&_nc_oc=AdmEnm6dUoxWdLSKCIg2SvAdXh5VcrQTjoqBAbaHjVn6_QHNiRN0nJRmU3Qv0n5U-y0&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=nwGKMjU3nzK7Bt2InJpYiQ&oh=00_AfJktq36_bTH-AROA738e-OjzFBmgB9IcCmu3gMaVSc6VA&oe=6827D75A"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100004593723222,
+        "profile_name": "Meraj Khandaker",
+        "is_dealership": false,
+        "lives_in": "New York, New York",
+        "joined_facebook_in": 2012,
+        "car_listings": 1,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100004593723222/"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2001 Honda custom",
+    "product_price": 5000,
+    "vehicle_info": {
+        "mileage": 27000,
+        "fuel_type": "Manual transmission",
+        "interior_color": "",
+        "exterior_color": "Orange"
+    },
+    "publication_info": {
+        "publication_id": 2088198664993042,
+        "publication_date": "2025-05-12",
+        "product_title": "2001 Honda custom",
+        "product_price": 5000,
+        "publication_description": "Great running beautiful bike just in time for summer, I\u2019m looking for something else. No trades clean title. See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/2088198664993042/",
+        "publication_location": "Florissant, MO",
+        "images": [
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/496503755_1875519099860059_4868672514273788402_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=454cf4&_nc_ohc=YXTL1UdBpXEQ7kNvwEuuu81&_nc_oc=AdkZ250fEUkAfw1TwUamSOb8yfohSLZ8by6SfDpVkAdOqieFsNPlmRM_ciurayy4bAo&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=wUdMGHxkswAbWP0wLfziGg&oh=00_AfLWZnlo9XmKS_jnOF6Kcn9LewEKEQydEruy-AAKPf14zg&oe=6827E117"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100022059617425,
+        "profile_name": "Ar'sean James",
+        "is_dealership": false,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2017,
+        "car_listings": 1,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100022059617425/"
+    }
+}

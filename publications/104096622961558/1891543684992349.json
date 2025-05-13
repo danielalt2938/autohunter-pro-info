@@ -1,0 +1,40 @@
+{
+    "date": "2025-05-10",
+    "product_title": "2018 Ford fusion Sport Sedan 4D",
+    "product_price": 12300,
+    "vehicle_info": {
+        "mileage": 86182,
+        "fuel_type": "Automatic transmission",
+        "interior_color": "Tan",
+        "exterior_color": "Black",
+        "consumption": {
+            "city": 17.0,
+            "highway": 26.0
+        }
+    },
+    "publication_info": {
+        "publication_id": 1891543684992349,
+        "publication_date": "2025-05-10",
+        "product_title": "2018 Ford fusion Sport Sedan 4D",
+        "product_price": 12300,
+        "publication_description": "2018 Ford Fusion with a lot of life left. Great fuel economy and perfect for a daily commute or even first time driver has 86,182miles. Financing options available for qualified buyers. \u201cDon\u2019t mind my co worker having a meltdown in the video lol See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/1891543684992349/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/495573089_3057688551060375_4826345147543913474_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=454cf4&_nc_ohc=vsfyhlt6TcsQ7kNvwH2TP6X&_nc_oc=AdkO0UeVioGdXn3GkjEpYs86aLBvX6ltqs1rCsHC2rT3wQlFGKnOUNlA30wCGVKOpno&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=ysqbjLvR_O-YqrYWTESvHQ&oh=00_AfKi5vIl_aNACMNwqMTRqmITy9AWB2tmUNpCIQZKc9lgPw&oe=6827C6A1",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/496095674_3057683464394217_3956492599463693558_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=946e27&_nc_ohc=bQHGYbuZEA0Q7kNvwF2NuE-&_nc_oc=AdkOORsBbyktCb0M0R5RRIyOvn1n0IhUK7VnZAfylk1sbYNcDdfqT-pLI9X8LDYVcTY&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=ysqbjLvR_O-YqrYWTESvHQ&oh=00_AfIlRxsQh3sfi64q88Fz10IDQKDYKkQJFd7czdg5AJOLbg&oe=6827ED28",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/495367368_3057683561060874_7132150590158275675_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=946e27&_nc_ohc=oYEEEX32SuIQ7kNvwFEEln7&_nc_oc=AdmUyJlfDO8_fjGRwYKtWxw8OnP1eA-HaS5JET10bFkrePCZ7dZxwNjbW9-OkLKgN4Q&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=ysqbjLvR_O-YqrYWTESvHQ&oh=00_AfLQzuReAW2O6D7bXQIoXQf1aWHhVnYpqewjj92dLijWig&oe=6827C9AF"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100004577798046,
+        "profile_name": "Randy Love",
+        "is_dealership": true,
+        "lives_in": "Gillespie, Illinois",
+        "joined_facebook_in": 2012,
+        "car_listings": 10,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100004577798046/"
+    }
+}

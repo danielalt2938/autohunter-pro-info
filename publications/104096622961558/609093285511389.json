@@ -1,0 +1,35 @@
+{
+    "date": "2025-05-11",
+    "product_title": "2014 Chevrolet spark",
+    "product_price": 4000,
+    "vehicle_info": {
+        "mileage": 144000,
+        "fuel_type": "Gasoline",
+        "interior_color": "",
+        "exterior_color": "Yellow"
+    },
+    "publication_info": {
+        "publication_id": 609093285511389,
+        "publication_date": "2025-05-11",
+        "product_title": "2014 Chevrolet spark",
+        "product_price": 4000,
+        "publication_description": "Very reliable and fuel efficient vehicle with  low mileage. At 144,000.\n\nRuns great on the highway. It has touchscreen and Bluetooth connectivity. No warning lights on the dash. \n\nI want $4,000 cash. I\u2019m selling because it only has a 1.2 cylinder engine. I want to upgrade. There are no issues with the car.  See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/609093285511389/",
+        "publication_location": "St Louis, MO",
+        "images": [
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/495389673_9011263002307455_7905830638692059577_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=454cf4&_nc_ohc=VeEeG_UtpZ4Q7kNvwHMMgnu&_nc_oc=AdmpkaLbsBzCNmY2G4PWNsJBNf1wGuTIRXMVWsZnX77GCMOdtjZ20bIgJR0sczlPKZs&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=kqs2eyUtEOJoEaSItJU1wA&oh=00_AfI0i9OrQobPRGty6OiVYlrKWmiTUfdMyLz6_3gKJrF8Mg&oe=6827D4A6",
+            "https://scontent-mia5-2.xx.fbcdn.net/v/t39.30808-6/496159103_9011243552309400_5319988979117586789_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=946e27&_nc_ohc=3oNwIQnWOicQ7kNvwGS6-xp&_nc_oc=Adkmzja-cgi0_aE4iOkaHlZqTZedpFvQJZzEJ6Rp0U5ckzgKYt_zS1ackSUDFvOgKq8&_nc_zt=23&_nc_ht=scontent-mia5-2.xx&_nc_gid=kqs2eyUtEOJoEaSItJU1wA&oh=00_AfLs09q_sJufaazTycqK0vZdOS5fjbpAzmZ6GqCHCoWhkQ&oe=6827EC5C"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100002715350521,
+        "profile_name": "Jake Matthews",
+        "is_dealership": false,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2011,
+        "car_listings": 1,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100002715350521/"
+    }
+}

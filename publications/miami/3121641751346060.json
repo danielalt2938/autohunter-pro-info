@@ -1,0 +1,41 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2014 Toyota corolla S Sedan 4D",
+    "product_price": 1500,
+    "vehicle_info": {
+        "mileage": 59690,
+        "fuel_type": "Petrol",
+        "interior_color": "Black",
+        "exterior_color": "Blue",
+        "consumption": {
+            "city": 29.0,
+            "highway": 37.0
+        },
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 3121641751346060,
+        "publication_date": "2025-05-12",
+        "product_title": "2014 Toyota corolla S Sedan 4D",
+        "product_price": 1500,
+        "publication_description": "N/A",
+        "publication_link": "https://www.facebook.com/marketplace/item/3121641751346060/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/496157849_122198168540105625_6861331103317927151_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=454cf4&_nc_ohc=Ann1P68HGM8Q7kNvwFU-gAj&_nc_oc=Admrdmbq92jAK1aRRJ2dTXIQe0cP3bEPzMtc1ioYFwZJi8siBEQ6idxDuCyrodd4UXU&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=pbDkhl52qNuCVfzTwL6cnA&oh=00_AfK3rO2QUvM9sjDE9JpbJx1wQMg3w7YZwdvWhOl5Pf875w&oe=6827CFDE",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/496157849_122198168540105625_6861331103317927151_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=454cf4&_nc_ohc=Ann1P68HGM8Q7kNvwFU-gAj&_nc_oc=Admrdmbq92jAK1aRRJ2dTXIQe0cP3bEPzMtc1ioYFwZJi8siBEQ6idxDuCyrodd4UXU&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=pbDkhl52qNuCVfzTwL6cnA&oh=00_AfK3rO2QUvM9sjDE9JpbJx1wQMg3w7YZwdvWhOl5Pf875w&oe=6827CFDE",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/496015000_122198164016105625_7009356323402436187_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=946e27&_nc_ohc=8BBpI2FUI8wQ7kNvwGoZ5aj&_nc_oc=Adnjp-bzOEh44PWlv-qMVoI1kdia9_eJNCfIot_JE02ST-8KuXrETp9Cimyj3w1_fkI&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=pbDkhl52qNuCVfzTwL6cnA&oh=00_AfLll_8eTFheAAQs3A_1nzZlsR_UmfFGom9sWLbh2QmTgg&oe=6827F791"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 61553168776121,
+        "profile_name": "Yei Ramos",
+        "is_dealership": true,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2023,
+        "car_listings": 12,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/61553168776121/"
+    }
+}

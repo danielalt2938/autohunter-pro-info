@@ -1,0 +1,41 @@
+{
+    "date": "2025-05-11",
+    "product_title": "2001 Honda accord EX Coupe 2D",
+    "product_price": 2995,
+    "vehicle_info": {
+        "mileage": 162000,
+        "fuel_type": "Gasoline",
+        "interior_color": "Black",
+        "exterior_color": "Blue",
+        "consumption": {
+            "city": 18.0,
+            "highway": 26.0
+        },
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 1320973078969901,
+        "publication_date": "2025-05-11",
+        "product_title": "2001 Honda accord EX Coupe 2D",
+        "product_price": 2995,
+        "publication_description": "Excellent condition \nRun and drive no issues \nAddress: 991 18th Ave, Newark, NJ 07106 \nWebsite: www.ABdealers.Com See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/1320973078969901/",
+        "publication_location": "Newark, NJ",
+        "images": [
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/495696629_24346175384983005_3756584143878923582_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=454cf4&_nc_ohc=od2VHQI9bB4Q7kNvwF0NspK&_nc_oc=AdnmwURlP81OxyTREsXbFA0Od6Ac0h_ViQpf5AmohC10qMyRgD4UEGOkYxMqFulZntU&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=klWOi8RuCV1T0p683aA-LA&oh=00_AfI-e29Ua8bQnSZ1ttTpXtf3WSCjh5YWqLM-CJdRUPgbYg&oe=6827F45D",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/495696629_24346175384983005_3756584143878923582_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=454cf4&_nc_ohc=od2VHQI9bB4Q7kNvwF0NspK&_nc_oc=AdnmwURlP81OxyTREsXbFA0Od6Ac0h_ViQpf5AmohC10qMyRgD4UEGOkYxMqFulZntU&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=klWOi8RuCV1T0p683aA-LA&oh=00_AfI-e29Ua8bQnSZ1ttTpXtf3WSCjh5YWqLM-CJdRUPgbYg&oe=6827F45D",
+            "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/495838373_24346151828318694_9208151791504939396_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=946e27&_nc_ohc=JIpsj3oTAwMQ7kNvwEtYNbL&_nc_oc=Adk_tHLOdFR_lQcR743Cm6f-i-eLNBT-0I4bS1qKMBavNqPWk6CFrUs5M4PQpxcxWBM&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=klWOi8RuCV1T0p683aA-LA&oh=00_AfLnzarB4vZpMLQ-518u20Y4x3HUmucvHWfxD7uDd64RbA&oe=6827F713"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100000516465125,
+        "profile_name": "Baker Hamad",
+        "is_dealership": true,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2009,
+        "car_listings": 12,
+        "rating": 4.3,
+        "ratings_number": 17,
+        "profile_link": "https://www.facebook.com/marketplace/profile/100000516465125/"
+    }
+}

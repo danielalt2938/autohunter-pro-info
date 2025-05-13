@@ -1,0 +1,36 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2005 Chrysler town & country",
+    "product_price": 1600,
+    "vehicle_info": {
+        "mileage": 280000,
+        "fuel_type": "Automatic transmission",
+        "interior_color": "",
+        "exterior_color": "White"
+    },
+    "publication_info": {
+        "publication_id": 667311692738906,
+        "publication_date": "2025-05-12",
+        "product_title": "2005 Chrysler town & country",
+        "product_price": 1600,
+        "publication_description": "2005 town and country \nWill pass emissions \nRuns and drive great\nHeat/ac\nClean title \nLeather interior \n280k miles See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/667311692738906/",
+        "publication_location": "St Louis, MO",
+        "images": [
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/496484638_1360369188349229_691824541960658566_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=454cf4&_nc_ohc=GJEPb0CHgEcQ7kNvwFbL3lY&_nc_oc=Adkk53--Wbz__ebMg5L3-W6SV0ca24rgq2TsO7G1bYbl84ifLG8ZS9lGmKV8IW4qH18&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=mAXffm40V9iMFAncvAo1Bw&oh=00_AfIzL4T2LdTVoT9utI_lixL1Y9YbNoo6T752dyk9yb817A&oe=6827D830",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/496484638_1360369188349229_691824541960658566_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=454cf4&_nc_ohc=GJEPb0CHgEcQ7kNvwFbL3lY&_nc_oc=Adkk53--Wbz__ebMg5L3-W6SV0ca24rgq2TsO7G1bYbl84ifLG8ZS9lGmKV8IW4qH18&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=mAXffm40V9iMFAncvAo1Bw&oh=00_AfIzL4T2LdTVoT9utI_lixL1Y9YbNoo6T752dyk9yb817A&oe=6827D830",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/493103460_1360367915016023_7163548259775887109_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=946e27&_nc_ohc=mfjeg0ws7H0Q7kNvwGO-XVH&_nc_oc=AdkCY6S2NYIYMyRWXnADV1nXZE-g1Fv6Jb6l-7JZdZ8OK9zGSGtvxNyTVz_qoGBnAzM&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=mAXffm40V9iMFAncvAo1Bw&oh=00_AfJpDQA58-pf099DMW48og6cTumYmsl5RvydV2Gzdhfz2A&oe=6827F259"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100031284822024,
+        "profile_name": "Kae Mona",
+        "is_dealership": true,
+        "lives_in": "St. Louis",
+        "joined_facebook_in": 2018,
+        "car_listings": 10,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100031284822024/"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "date": "2025-05-07",
+    "product_title": "2011 Nissan rogue",
+    "product_price": 3300,
+    "vehicle_info": {
+        "mileage": 105000,
+        "fuel_type": "Gasoline",
+        "interior_color": "Beige",
+        "exterior_color": "White",
+        "title": "Clean"
+    },
+    "publication_info": {
+        "publication_id": 1205179517327375,
+        "publication_date": "2025-05-07",
+        "product_title": "2011 Nissan rogue",
+        "product_price": 3300,
+        "publication_description": "Clean title - t\u00edtulo limpio\nNo issues - no problemas mec\u00e1nicos \nClean title - t\u00edtulo limpio\nNo issues - no problemas mec\u00e1nicos \n See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/1205179517327375/",
+        "publication_location": "Bronx, NY",
+        "images": [
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/495068881_2468736843472420_9047898249825021585_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=454cf4&_nc_ohc=8lSSWHwuZzgQ7kNvwHiMJ29&_nc_oc=AdkR2Q2cAAM2qtWT96W6UXQk6B-bnVJVYGU0m0Qm2dl38d7ZwBrxue0l3cfDTigY6s4&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=YCKMLGX5WVwQTRaAHoC1Cw&oh=00_AfL_yASOSRN1vSts0eyTfXOCuRavil1wI_BI5hn2YnllTQ&oe=6827E1A9",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/495068881_2468736843472420_9047898249825021585_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=454cf4&_nc_ohc=8lSSWHwuZzgQ7kNvwHiMJ29&_nc_oc=AdkR2Q2cAAM2qtWT96W6UXQk6B-bnVJVYGU0m0Qm2dl38d7ZwBrxue0l3cfDTigY6s4&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=YCKMLGX5WVwQTRaAHoC1Cw&oh=00_AfL_yASOSRN1vSts0eyTfXOCuRavil1wI_BI5hn2YnllTQ&oe=6827E1A9",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/492899654_2468732063472898_190376331020900275_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=946e27&_nc_ohc=E6hlYMZXUfoQ7kNvwETqiQa&_nc_oc=AdnNbOO1OsVyjrX6C5TYtiKOr0dj0SBCml9fgArxtBamFRKS0yL5s_x1cw4kE-n77Mg&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=YCKMLGX5WVwQTRaAHoC1Cw&oh=00_AfJkqNODspA2aYc_653Iw1TvPHzmp5Z407D8dj4XieWiZA&oe=6827DE11"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100010083849380,
+        "profile_name": "Omar Estil",
+        "is_dealership": true,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2015,
+        "car_listings": 12,
+        "rating": 3.5,
+        "ratings_number": 8,
+        "profile_link": "https://www.facebook.com/marketplace/profile/100010083849380/"
+    }
+}

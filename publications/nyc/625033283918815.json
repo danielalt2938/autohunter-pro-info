@@ -1,0 +1,40 @@
+{
+    "date": "2025-05-12",
+    "product_title": "2007 Audi a4 2.0T Quattro Sedan 4D",
+    "product_price": 2800,
+    "vehicle_info": {
+        "mileage": 120000,
+        "fuel_type": "Automatic transmission",
+        "interior_color": "Black",
+        "exterior_color": "Silver",
+        "consumption": {
+            "city": 19.0,
+            "highway": 27.0
+        }
+    },
+    "publication_info": {
+        "publication_id": 625033283918815,
+        "publication_date": "2025-05-12",
+        "product_title": "2007 Audi a4 2.0T Quattro Sedan 4D",
+        "product_price": 2800,
+        "publication_description": "Engine good transmission good \nRuns and drives good\n120,000 miles\nBlack leather interior / sunroof \nCLEAN TITLE ! See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/625033283918815/",
+        "publication_location": "Elmhurst, NY",
+        "images": [
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/496002713_24116555054634846_4893771115566102715_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=454cf4&_nc_ohc=2lZd_v2Zd88Q7kNvwHoT6VW&_nc_oc=AdkyxuV-8BVXG6_LeIOuZ3VtEYjgbjb32bdWVpQTsJuptp7YY61iZkpcY8T27FLyxy8&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=4CJahp8O9bDPrFgNQbGl4w&oh=00_AfLvS5Tq2oAHLrcaRwVUeSD7cJA3mLc5IYgkAcCHunNRjg&oe=6827D214",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/495775212_24116521494638202_846382330861767375_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=946e27&_nc_ohc=OL6Pro8AAuwQ7kNvwHRLQCc&_nc_oc=AdlaNeAHs3LWnvHCE-vpAp0UWdARfjys1IAoafTkFcA2iyfsGwrLbqW0d7ouLCACTqA&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=4CJahp8O9bDPrFgNQbGl4w&oh=00_AfI09LyBx9OrWDivs8srcwDjCtzgg33Etij_BS-_jiv6Lw&oe=6827D8D5",
+            "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/495199930_24116521324638219_835755115349898697_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=946e27&_nc_ohc=qM606QDqkV0Q7kNvwEaNsVS&_nc_oc=AdnJ0BnQgmZkIff4r9XvqL3sG76ORVOtubPi5bnImQA1xOdjS0kBGMu4EgN1Fwq8Wsk&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=4CJahp8O9bDPrFgNQbGl4w&oh=00_AfIdrKeeuwabkilMFPQocFdXqIiWEfg8Yp7O43Othjp2iA&oe=6827ACE3"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 100001210641207,
+        "profile_name": "Estephani Castellon",
+        "is_dealership": true,
+        "lives_in": "N/A",
+        "joined_facebook_in": 2010,
+        "car_listings": 2,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/100001210641207/"
+    }
+}

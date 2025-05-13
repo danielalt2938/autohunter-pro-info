@@ -1,0 +1,40 @@
+{
+    "date": "2025-05-10",
+    "product_title": "2011 Ford focus S Sedan 4D",
+    "product_price": 2500,
+    "vehicle_info": {
+        "mileage": 261059,
+        "fuel_type": "Gasoline",
+        "interior_color": "White",
+        "exterior_color": "White",
+        "consumption": {
+            "city": 25.0,
+            "highway": 34.0
+        }
+    },
+    "publication_info": {
+        "publication_id": 1683642925574137,
+        "publication_date": "2025-05-10",
+        "product_title": "2011 Ford focus S Sedan 4D",
+        "product_price": 2500,
+        "publication_description": "If you need a starter car for a I\u2019m beginning teenage driver\nI got many miles in this great for dominos driving and every day travel \ufffc\ufffc See less",
+        "publication_link": "https://www.facebook.com/marketplace/item/1683642925574137/",
+        "publication_location": "",
+        "images": [
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/496254538_122199169406042195_5778671702584669199_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=454cf4&_nc_ohc=hplos_Q1r-YQ7kNvwGI7ZLH&_nc_oc=Adm8Scqc7tCHnk2y0cXOwwwSUC-J6xUU0d8boIAcz9KVchJP3H8MAAuAdgjZJhfq1Dg&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=VV8r-WYCU6VY1OCmMk5ptg&oh=00_AfLu37v5hiht9azCk6Tu6vk56CdHibdvKG9JJm7u6-6i7Q&oe=6827F3EA",
+            "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/496254538_122199169406042195_5778671702584669199_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=454cf4&_nc_ohc=hplos_Q1r-YQ7kNvwGI7ZLH&_nc_oc=Adm8Scqc7tCHnk2y0cXOwwwSUC-J6xUU0d8boIAcz9KVchJP3H8MAAuAdgjZJhfq1Dg&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=VV8r-WYCU6VY1OCmMk5ptg&oh=00_AfLu37v5hiht9azCk6Tu6vk56CdHibdvKG9JJm7u6-6i7Q&oe=6827F3EA",
+            "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/495365675_122199167900042195_3694502825959963905_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=946e27&_nc_ohc=lxkU6rIL8hEQ7kNvwElEgyZ&_nc_oc=AdkFWjw3r-8Du9NNO8mF-AtzUX9JNoXjkeh70XDR9qbswpzx9QjSTUo94IHQ64JWSR8&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=VV8r-WYCU6VY1OCmMk5ptg&oh=00_AfLa99gfuoXiwiUdPn-nemsrxzbdRemAj293KtRVNhgbzA&oe=6827D42F"
+        ]
+    },
+    "profile_info": {
+        "profile_id": 61551265861342,
+        "profile_name": "Angel Ford",
+        "is_dealership": false,
+        "lives_in": "Granite City, Illinois",
+        "joined_facebook_in": 2023,
+        "car_listings": 1,
+        "rating": "N/A",
+        "ratings_number": "N/A",
+        "profile_link": "https://www.facebook.com/marketplace/profile/61551265861342/"
+    }
+}
