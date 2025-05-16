@@ -66,7 +66,9 @@ class fbm_scraper():
         if headless:
             options.headless = True
         service = webdriver.FirefoxService( executable_path='./geckodriver' )
+        print("Almost good")
         self.browser = webdriver.Firefox(service=service, keep_alive=True, options=options)
+        print("Good")
         self.browser.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
 
 
