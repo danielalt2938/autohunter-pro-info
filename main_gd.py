@@ -123,6 +123,7 @@ class fbm_scraper():
     def execute_scrap_process(self):
         print(f"INFO: Starting the scrap of {self.url_to_scrap}")
         self.browser.get(self.url_to_scrap)
+        self.browser.save_screenshot("start.png")
         self.human_scroll()
 
     def scrap_links(self):
@@ -294,7 +295,10 @@ class fbm_scraper():
         return vehicle_info
     
     def scrap_seller_profile(self):
-        profile_element = self.browser.find_element(By.XPATH, "//a[contains(@href, '/marketplace/profile')]")
+        try:
+            profile_element = self.browser.find_element(By.XPATH, "//a[contains(@href, '/marketplace/profile')]")
+        except:
+            return None, None, None, None, None, None, None, None
         profile_href = profile_element.get_attribute("href")
         profile_id = profile_href.split("/")[5]
         self.browser.execute_script("arguments[0].click();", profile_element)
