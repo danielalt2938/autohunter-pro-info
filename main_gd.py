@@ -65,7 +65,7 @@ class fbm_scraper():
         options.set_preference('fission.webContentIsolationStrategy', 0)
         if headless:
             options.headless = True
-        service = webdriver.FirefoxService( executable_path='/snap/bin/geckodriver' )
+        service = webdriver.FirefoxService( executable_path='./geckodriver' )
         self.browser = webdriver.Firefox(service=service, keep_alive=True, options=options)
         self.browser.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
 
