@@ -102,6 +102,7 @@ class fbm_scraper():
         self.browser.get("https://www.facebook.com/login.php?lwv=200")
         email_input = WebDriverWait(self.browser, 20).until(EC.presence_of_element_located((By.XPATH, "//input[contains(@aria-label, 'Email')]")))
         password_input = self.browser.find_element(By.XPATH, "//input[contains(@aria-label, 'Password')]")
+        self.browser.save_screenshot("login.png")
         self.human_key_input(email_input, email)
         self.human_key_input(password_input, password)
         password_input.send_keys(Keys.RETURN)
