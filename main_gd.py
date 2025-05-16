@@ -105,7 +105,9 @@ class fbm_scraper():
         self.browser.save_screenshot("login.png")
         self.human_key_input(email_input, email)
         self.human_key_input(password_input, password)
-        password_input.send_keys(Keys.RETURN)
+
+        login_button = self.browser.find_element(By.XPATH, '//button[@id="loginbutton"]')
+        login_button.click()
         time.sleep(5)
 
         try:
