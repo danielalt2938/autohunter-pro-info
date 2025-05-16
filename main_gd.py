@@ -44,34 +44,31 @@ abs_path = os.path.abspath(__file__)
 dir_path = os.path.dirname(abs_path)
 
 class fbm_scraper():
-    def __init__(self, email, password, city_code, profile, threshold=100, headless=True):
+    def __init__(self, email, password, city_code, profile, threshold=100, headless=False):
         self.threshold = threshold
         
         
-        # Set the options for the Chrome browser. Keep these to avoid detections.
         options = webdriver.FirefoxOptions()
-        #options.add_argument("--headless")
-        # Set the path to the Chrome driver.
         options.add_argument("-profile")
         options.add_argument(f"{dir_path}/profiles/{profile}")
-        
-        
-        #options.set_preference("general.useragent.override", "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0")
-        #options.set_preference('dom.webdriver', False)
-        #options.set_preference('enable-automation', False)
-        #options.set_preference('dom.webdriver.enabled', False)
-        #options.set_preference('useAutomationExtension', False)
-        #options.set_preference('devtools.jsonview.enabled', False)
-        #options.set_preference('marionette.enabled', False)
-        #options.set_preference('fission.bfcacheInParent', False)
-        #options.set_preference('focusmanfocusmanager.testmode', False)
-        #options.set_preference('fission.webContentIsolationStrategy', 0)
-        #service = webdriver.FirefoxService()
-        print("all good")
-        self.browser = webdriver.Firefox(options=options)
-        print("good")
+        options.add_argument("--no-sandbox")
+        options.add_argument('--disable-blink-features=AutomationControlled')
+        options.set_preference("general.useragent.override", "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0")
+        options.set_preference('dom.webdriver', False)
+        options.set_preference('enable-automation', False)
+        options.set_preference('dom.webdriver.enabled', False)
+        options.set_preference('useAutomationExtension', False)
+        options.set_preference('devtools.jsonview.enabled', False)
+        options.set_preference('marionette.enabled', False)
+        options.set_preference('fission.bfcacheInParent', False)
+        options.set_preference('focusmanfocusmanager.testmode', False)
+        options.set_preference('fission.webContentIsolationStrategy', 0)
+        if headless:
+            options.headless = True
+        service = webdriver.FirefoxService( executable_path='/snap/bin/geckodriver' )
+        self.browser = webdriver.Firefox(service=service, keep_alive=True, options=options)
         self.browser.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
-        print("good too")
+
 
         self.checkpoint = [x.replace(".json", "") for x in os.listdir(f"{dir_path}/publications/")]
         self.links = {}
@@ -100,7 +97,7 @@ class fbm_scraper():
             return False
 
     def log_in(self, email, password):
-        self.browser.get("https://www.facebook.com/")
+        self.browser.get("https://www.facebook.com/login.php?lwv=200")
         email_input = WebDriverWait(self.browser, 20).until(EC.presence_of_element_located((By.XPATH, "//input[contains(@aria-label, 'Email')]")))
         password_input = self.browser.find_element(By.XPATH, "//input[contains(@aria-label, 'Password')]")
         self.human_key_input(email_input, email)
@@ -124,7 +121,7 @@ class fbm_scraper():
         print(f"INFO: Starting the scrap of {self.url_to_scrap}")
         self.browser.get(self.url_to_scrap)
         self.human_scroll()
-        self.browser.save_screenshot("./fuck.png")
+
     def scrap_links(self):
         elements = self.browser.find_elements(By.XPATH, '//div[@class="x3ct3a4"]')
         for element in elements:
@@ -358,10 +355,7 @@ class fbm_scraper():
 
         publication_id = link.split("/")[5]
         publication_date = self.scrap_publication_date()
-        try:
-            product_title = WebDriverWait(self.browser, 20).until(EC.presence_of_element_located((By.XPATH, PRODUCT_TITLE_XPATH))).text.split("\n")[0]
-        except:
-            return None
+        product_title = WebDriverWait(self.browser, 20).until(EC.presence_of_element_located((By.XPATH, PRODUCT_TITLE_XPATH))).text.split("\n")[0]
         try:
             product_price = int(self.browser.find_element(By.XPATH, PRODUCT_PRICE_XPATH).text.replace("$", "").replace(",", "").strip())
         except:
@@ -451,9 +445,9 @@ if __name__ == "__main__":
 
             if not os.path.exists(f"{dir_path}/publications/{city}"):
                 os.makedirs(f"{dir_path}/publications/{city}")
-            
+
             worker = fbm_scraper(email, password, city, profile, threshold)
-           
+
 
             worker.execute_scrap_process()
             for product_id, link in worker.links.items():
