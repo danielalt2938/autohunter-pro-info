@@ -68,7 +68,7 @@ def generate_proxy_profile(ip, port, username, password):
             "tabProxy": []
             }
         ]
-        }
+    }
     with open(f"{BASE_DIR}/utils/proxy.json", "w") as f:
         json.dump(proxy, f, indent=4)
 
@@ -102,7 +102,7 @@ def configure_proxy_extension(profile_name, proxy_ip, proxy_port, proxy_username
     options.set_preference('fission.webContentIsolationStrategy', 0)
 
 
-    service = webdriver.FirefoxService( executable_path='/snap/bin/geckodriver' )
+    service = webdriver.FirefoxService( executable_path='./geckodriver' )
     browser = webdriver.Firefox(service=service,  options=options)
     browser.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
     browser.install_addon("./utils/foxyproxy@eric.h.jung.xpi", temporary=False)
