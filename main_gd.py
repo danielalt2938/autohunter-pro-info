@@ -14,6 +14,10 @@ import sys
 import socks
 import socket
 import csv
+from selenium.webdriver.firefox.service import Service as FirefoxService
+from selenium.webdriver.firefox.options import Options
+from selenium.common.exceptions import TimeoutException
+
 
 VEHICLE_MAKES = [
     "acura", "alfa romeo", "aston martin", "audi", "bentley", "bmw", "buick", "cadillac", 
@@ -46,11 +50,15 @@ dir_path = os.path.dirname(abs_path)
 class fbm_scraper():
     def __init__(self, email, password, city_code, profile, threshold=100, headless=False):
         self.threshold = threshold
-        
-        
-        options = webdriver.FirefoxOptions()
+
+        profile_path = os.path.join(dir_path, "profiles", profile)
+        gecko_path = os.path.join(dir_path, "geckodriver.exe")
+        firefox_path = r"C:\Program Files\Mozilla Firefox\firefox.exe"  # Adjust if needed
+
+        options = Options()
+        options.binary_location = firefox_path
         options.add_argument("-profile")
-        options.add_argument(f"{dir_path}/profiles/{profile}")
+        options.add_argument(profile_path)
         options.add_argument("--no-sandbox")
         options.add_argument('--disable-blink-features=AutomationControlled')
         options.set_preference("general.useragent.override", "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0")
@@ -65,24 +73,29 @@ class fbm_scraper():
         options.set_preference('fission.webContentIsolationStrategy', 0)
         if headless:
             options.headless = True
-        service = webdriver.FirefoxService( executable_path='./geckodriver' )
-        print("Almost good")
+
+        if not os.path.exists(gecko_path):
+            raise FileNotFoundError(f"geckodriver not found at: {gecko_path}")
+
+        if not os.path.exists(firefox_path):
+            raise FileNotFoundError(f"Firefox not found at: {firefox_path}")
+
+        service = FirefoxService(executable_path=gecko_path)
+        print("Launching Firefox browser...")
         self.browser = webdriver.Firefox(service=service, keep_alive=True, options=options)
-        print("Good")
+        print("Firefox launched successfully.")
         self.browser.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
 
-
-        self.checkpoint = [x.replace(".json", "") for x in os.listdir(f"{dir_path}/publications/")]
+        self.checkpoint = [x.replace(".json", "") for x in os.listdir(os.path.join(dir_path, "publications"))]
         self.links = {}
 
         self.url_to_scrap = f"https://www.facebook.com/marketplace/{city_code}/vehicles?sortBy=creation_time_descend&exact=true"
 
         if self.log_check() == True:
-            print(f"INFO: Profile {profile} not logged, attempting a log in.")
-            
+            print(f"INFO: Profile {profile} not logged in, attempting login...")
             captcha = self.log_in(email, password)
             if captcha:
-                print(f"WARNING: Captcha/Notification request detected for profile {profile}. Terminating.")
+                print(f"⚠️ CAPTCHA or verification challenge detected for profile {profile}. Aborting.")
                 sys.exit(0)
 
     def ip_test(self):
@@ -171,7 +184,14 @@ class fbm_scraper():
                 time.sleep(random_wait)
     
     def scrap_images(self, publication_id, download_images = False):
-        container_element = self.browser.find_element(By.XPATH, '//div[@class="x1ja2u2z x78zum5 xl56j7k xh8yej3"]')
+        try:
+            container_element = WebDriverWait(self.browser, 10).until(
+            EC.presence_of_element_located((By.XPATH, '//div[@class="x1ja2u2z x78zum5 xl56j7k xh8yej3"]'))
+            )
+        except TimeoutException:
+            print(f"⚠️ Image container not found for publication {publication_id}")
+            return []
+
         image_elements = container_element.find_elements(By.XPATH, PRODUCT_IMAGE_XPATH)
         if not os.path.exists(f"{dir_path}/images/{publication_id}"):
             os.makedirs(f"{dir_path}/images/{publication_id}")
