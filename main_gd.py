@@ -17,6 +17,7 @@ import csv
 from selenium.webdriver.firefox.service import Service as FirefoxService
 from selenium.webdriver.firefox.options import Options
 from selenium.common.exceptions import TimeoutException
+from bs4 import BeautifulSoup
 
 
 VEHICLE_MAKES = [
@@ -184,15 +185,9 @@ class fbm_scraper():
                 time.sleep(random_wait)
     
     def scrap_images(self, publication_id, download_images = False):
-        try:
-            container_element = WebDriverWait(self.browser, 10).until(
-            EC.presence_of_element_located((By.XPATH, '//div[@class="x1ja2u2z x78zum5 xl56j7k xh8yej3"]'))
-            )
-        except TimeoutException:
-            print(f"⚠️ Image container not found for publication {publication_id}")
-            return []
+      
 
-        image_elements = container_element.find_elements(By.XPATH, PRODUCT_IMAGE_XPATH)
+        image_elements = self.browser.find_elements(By.XPATH, PRODUCT_IMAGE_XPATH)
         if not os.path.exists(f"{dir_path}/images/{publication_id}"):
             os.makedirs(f"{dir_path}/images/{publication_id}")
     
@@ -451,6 +446,7 @@ class fbm_scraper():
         pass
 
 if __name__ == "__main__":
+    save_html = True
 
     with open(f"{dir_path}/input.csv", "r") as f:
         reader = csv.reader(f)
@@ -483,5 +479,4 @@ if __name__ == "__main__":
                 publication = worker.scrap_link(link)    
                 with open(f"{dir_path}/publications/{city}/{product_id}.json", "w") as f:
                     json.dump(publication, f, indent=4)
-                time.sleep(0.5)
             worker.browser.quit()
