@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "autohunter-pro",
+  "private_key_id": "4807e7cfdee395352af0380672fe067b54ccac58",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC4A6+dILR9xmN+\nXe5lhwvH7dk2fANGnbfsxVenh9tCgksbX3vwe/BnRUGm+prDfeWMKuPSm8PzuZtK\nLZV9ap5tI8hVYGUfuL3ivttW8lZsSfjRqUnQMpqmDp0knDIpBUJRm07LXOZkpHNX\n6Yc1rIE9M5SaN2g469zu0nRs6NbGcswW1wSB5khDDwiObGK8zcnmuhe3Ai3kt+SX\nHzWEkk0h+XCB57MQxNUxmMIFCdeN4ovOAZ9pZ7xmaSpzH3wYB7ErLiSrz9NoECGW\nh8vk+a5I9bPikh6rboBVTXnrL0D3aOOc5vIGOONchIWHUX0WaowzvSXLq8URHfF3\nyEP5YKoHAgMBAAECggEAGI1ir3wUo7oxE5mkMbxncFamUSRnf32THoQPjP/jMShC\nAzX7Sya4+IkqGFsproSBeJv5vTkhV8dfwUb8bOPT8vX/nedNttd8e+Dr/S7lJG++\nQ6NAgQdaJmaexaq9mpw5XBAf3vcsmn3CvMEg/vgJtR5zvnE+y7wqGgd57Kooi15o\nh6Pjsc7xH91isWqzh+abRnUmR9cCErSWmjd7j3cRjw2uBbYMC1v1fZN8KY8/3za+\nQz5kayvRWFMDsyq5ilpkvN+6aW0nlFUl0dh2g3P8uHEW0xhfsZft33Njh8CMgexz\nmupQyPU+IBTMF5YOcmfh8Jg9ulp5Sev/vFg8oTidaQKBgQDhXIHjEocwKVNibQbY\nuTJzFF2kGZ7iEuzE/Qx79yJ8m6y5st8ItmR27Af2/qbNufQy6b1z/2spiyaZcOhP\nibCpvY74sLSojZJJYFmAbBtgRYzv5etf8YMdGhvSl1UOPnXuyCVHyaHJUWsv3okx\nuw/cXDkoLoBkQRswqbNadLDgXQKBgQDRCCLajoMqDWwPZ0HkYa04wNdyvKB03Pyh\nTPoXMtGOl1xTZ6hsKx/tGpvHfbHHSgrHpz7XagTLfehTt/z40qcdsxIP+Aj6HTDG\nkW+ZatcZBVFYvj+Xi8gYpOR9/E4BvU147ILx4Iad6bd6ojDgnMbVGyrYYvjvqJjB\nIHIoRdpdswKBgQC7PXQBaRx/TGamaXV9zWl4KdyfglX6+cRU6vZbbPrvUxyQcWhT\nwc7466S2d9+5IB4fywqIfRfZPW8Fn8S0iO8KKJ/ISnDfdjir1GyoganBNCgkDgCh\nB3VrUYz6TJfzrLupeAtZeNJ+BLKs5BVTB1vnN4yZsQElyt4/cU++ASQQVQKBgQCx\n0OAFV9IQRda0y7vr0YOPkcw1GGzOvOZTOK5OabaGPBAYC0fkrFK+WjJGY5CF3WCK\nMqVsjg2CJZsrDIqwCFKNGzW0S+UnDwndAP8UXSSZbkKi4UQrYIdZH3wYCDc7l5N9\n2IQTylH5p0WjlrFJgVRLGI88AAWPqbY4I6e4xqNZrQKBgQC0lvtT0yITENNwSH/8\ni043bonwTmVsVKmHC/DjviUGahYXU1wl3i8+o5R8L0CkpE1MnES/quNphsukfT7K\nEXsnK3FJPVuhRRPFkMPYtcttjvWTNJKTQicB9ShhshdyWp+RVgdwXAkRAeHn+DBf\nkw91tvtO27ONB2s7yjTow/4OkA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@autohunter-pro.iam.gserviceaccount.com",
+  "client_id": "113415963557077391883",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40autohunter-pro.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

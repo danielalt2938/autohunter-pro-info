@@ -18,6 +18,7 @@ from selenium.webdriver.firefox.service import Service as FirefoxService
 from selenium.webdriver.firefox.options import Options
 from selenium.common.exceptions import TimeoutException
 from bs4 import BeautifulSoup
+from firebase_uploader import upload_publication_to_firestore
 
 
 VEHICLE_MAKES = [
@@ -370,7 +371,8 @@ class fbm_scraper():
         location_element = self.browser.find_element(By.XPATH, '//span[@class="x193iq5w xeuugli x13faqbe x1vvkbs x10flsy6 x1lliihq x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x x4zkp8e x41vudc x6prxxf xvq8zen xo1l8bm xzsf02u x1yc453h"]')
         location_text = location_element.text.split("\n")[0]
         return location_text
-    
+
+
     def scrap_link(self, link):
         
         self.browser.get(link)
@@ -477,6 +479,7 @@ if __name__ == "__main__":
             worker.execute_scrap_process()
             for product_id, link in worker.links.items():
                 publication = worker.scrap_link(link)    
+                upload_publication_to_firestore(publication)  # Push to Firestore
                 with open(f"{dir_path}/publications/{city}/{product_id}.json", "w") as f:
                     json.dump(publication, f, indent=4)
             worker.browser.quit()
